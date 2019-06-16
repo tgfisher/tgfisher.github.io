@@ -12,7 +12,7 @@ class PhotoShow extends Component{
   
   renderTitlePhotoshow =  title => {
       for (const curr_gal of this.state.galleries){
-        if (curr_gal.name == title) {
+        if (curr_gal.name === title) {
           var image_res = curr_gal.resolution;
           var chosen_photos = curr_gal.urls.map( imgurl => {
             return imgurl + image_res;
@@ -32,7 +32,7 @@ class PhotoShow extends Component{
               <br />
               <br />
               <br />
-              <img width="80%" height="auto" src={urls} />
+              <img width="80%" height="auto" src={urls} alt="a photo"/>
               <br />
               <br />
               <br />

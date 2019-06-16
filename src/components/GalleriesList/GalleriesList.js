@@ -21,7 +21,7 @@ class GalleriesList extends Component {
     // sort sessions
     var is_film = this.state.galleries.map(gal => {
       const gal_type = gal.medium.type;
-      if ( gal_type == "film" ) {
+      if ( gal_type === "film" ) {
         return true;
       } else {
         return false;

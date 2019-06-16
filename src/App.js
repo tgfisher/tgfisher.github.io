@@ -11,9 +11,6 @@ import Brad from './components/Galleries/Brad';
 import China from './components/Galleries/China';
 
 class App extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     return (
       <Router>
