@@ -1,0 +1,38 @@
+.vertical-align {
+    display: middle; 
+    align-items: center;
+  }
+
+  .text-align {
+    display: center;
+    align-items: right;
+  }
+
+  .left {
+    display: left;
+  }
+  
+  .headshot {
+    width: 100%;
+  }
+
+  .icons path {
+    color: gray;
+  }
+  
+  .btn {
+    margin-left: 10px;
+  }
+  .thumbnails {
+      width: 60%;
+  }
+ .easteregg {
+     background-color: transparent;
+     border: 0 solid;
+     width: 1px;
+     height: 65%; 
+ }
+ 
+  .mylink {
+    color: #66023c;
+  }

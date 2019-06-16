@@ -1,0 +1,47 @@
+{
+    "galleries": [
+        {
+            "date": "2019-06-15",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "XT-1"
+            },
+            "name": "Brad",
+            "link": "/Brad",
+            "thumbnail_idx": 0,
+            "comments": "Thanks to for always being there for us as role model and an incredibly important supporter. Happy Father's Day! Some of my recent favorites in here...",
+            "urls":
+                [
+                    "https://lh3.googleusercontent.com/vbccjGf5W1cfBM6cXPCGbLLVBrBB8ByNhbLFE2fLa8xCPGi5BqEy6NTUWks9JLEzA4gRnmPPYZonWHEckZiurOZCr_n4Uaud6LSPYv3tfNFjaYiy5Gh4PDGfRB3yhfVheEv6dwYvhQ",
+                    "https://lh3.googleusercontent.com/0YO8UN9moyGfp_lVMVyN_hGiFVWqcYzKqOZXFb5BeEdoBOVPXfZzQyc772SEFBYCYRLcqt4yypCSwK1we6Jbr0dNvn_gJjJh-hk8-t3c0FT7PFCBeEzjuaZvw616kYK0Pgeg8PWGtg",
+                    "https://lh3.googleusercontent.com/M9fISIuw00P3sF7ji8auTGwhbC8uS6dUuGuYT0EST354GA3wPpvqgO2tJUTaksru2H0nxX5UbpDkqAiVdKZM3Ocgr9pOZNLHNGCl5GP9_vh09geNPk8YSIMsuKM4b1BUjCJWFdIKbg",
+                    "https://lh3.googleusercontent.com/DGIxpk6EtCdizUkMlpNm5PMdbUhFfR7YayB5NcdsJk-YFXwyMQezR6gwzgVGf6B_golWW0SD2Xy5O52XmhU9lysAu-AUjjeZ7Jle65XnSg8LAy5PZmr6VPx3ktHdmR5qPbOevZvEjg",
+                    "https://lh3.googleusercontent.com/QvuR72MCVJA37hjhI84gGFoog4BQ23679WTefsyyOiAExnXanbTbqFzUsP1dMRAk_TvFgJiknOIuOBq5px4c3HETBwh8LCFl5bKOS5WkcN_vUVFhXom6xfZpEO8B0M4AqQirOsVhlA",
+                    "https://lh3.googleusercontent.com/9h5-Lq3QW7xBtyD37BWhB9AFX7DgNrU6HfY1u2tbIxVs8-fw623KScluz2IbRs-NiHlJ6QdBU-ASEPjGf1CYRdHF6x6JwiKCemtZ8ZNycxj2_Cx2xpB8HAcGkCACYXfd0xFTFgkygw"
+                  ],
+            "resolution": "=w5000-h5000"
+        },
+        {
+            "date": "2016-08-30",
+            "medium": {
+                   "type": "film",
+                   "format": "35mm",
+                   "body": "Olympus",
+                   "model": "XA"
+            },
+            "name": "China",
+            "link": "/china",
+            "thumbnail_idx": 0,
+            "comments": "A few snapshots of Hong Kong",
+            "urls":
+                [
+                    "https://lh3.googleusercontent.com/lpc8CABbxfMO7tSQKJnMDO86o_Mrp0CRe61-VjJ9n9DTRTLmlj2b5VlbKpADvhElpz4_1RVUe9DPBJJJtiCfqKptYTM7l56O7pU9cUdhqj9Fyqa5HpdjpyuZA8_4llBop6YnfKp69A",
+                    "https://lh3.googleusercontent.com/37nICIzWCSsb3g-zk-7D2kJ4oQlHs0jG6rJJkiHAV-O5tVFghP_8i8Udn-ZzFkkMQ_pBQRx0SY4U7Zx62vDbnG2ywIu2WFZHVc8F3yuI0cLUVLTXo7vfLfIMOnbw6Z572WGMx57lqw",
+                    "https://lh3.googleusercontent.com/Am1TKTTCSEIl9aYJovYQ0M4l95J0VAWWAZO142_3BwvaoUlrjUtnuD8W5MfwwUzQwFBj6yVxBz6-ccfJBqYfDa8Ucs5DR8QgXfsTkhl5iHHTUCoeidSBZKZTeFwkqCzj-kCspnAHlQ"
+                  ],
+            "resolution": "=w5000-h5000"
+        }
+    ]
+}
