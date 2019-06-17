@@ -34,7 +34,7 @@ class QuickTake extends Component {
                                 <h5 >Graduate Student in Neuroscience</h5>
                                 <br />
                                 <br />
-                                <h6 className="text-center"> I have recently joined Lisa Giocomo's Lab. We study navigation. Before this, I was extreemly lucky to work with Marty Usrey, Henry Alitto, and Krishna Shenoy.</h6>
+                                <h6 className="text-center"> I have recently joined Lisa Giocomo's Lab. We study navigation. Before this, I was extremely lucky to work with Marty Usrey, Henry Alitto, and Krishna Shenoy.</h6>
                                 <br />
                                 <h7>(for the most part this is a place to share photography)</h7>
                                 <br />
