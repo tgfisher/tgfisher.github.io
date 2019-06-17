@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ad3162b6076ae7f8179d",
+    "revision": "cf4db69dbe96fdaee90e",
     "url": "/static/css/main.c130cf0c.chunk.css"
   },
   {
-    "revision": "ad3162b6076ae7f8179d",
-    "url": "/static/js/main.ad3162b6.chunk.js"
+    "revision": "cf4db69dbe96fdaee90e",
+    "url": "/static/js/main.cf4db69d.chunk.js"
   },
   {
     "revision": "5dbbf8b8f917765689bb",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/Datura_RIP.1064032a.jpg"
   },
   {
-    "revision": "476e170f4aa7fe382e47ad2de7c9a3b4",
+    "revision": "dff33e2215a5923ac2b4b327928f19ac",
     "url": "/index.html"
   }
 ];
