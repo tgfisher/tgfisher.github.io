@@ -35,6 +35,11 @@ class Header extends Component {
               <Collapse isOpen={this.state.isOpen} navbar>
                   <Nav className="ml-auto" navbar>
                     <NavItem>
+                        <NavLink href="https://stanford-cnjc.github.io">
+                            Stanford CNJC
+                        </NavLink>
+                    </NavItem>
+                    <NavItem>
                         <NavLink href="https://github.com/tgfisher" >
                             <FaGithub />
                         </NavLink>
