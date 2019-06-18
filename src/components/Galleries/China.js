@@ -6,7 +6,7 @@ class China extends Component {
       <Fragment>
           <PhotoShow title="China" />
       </Fragment>
-    );
+    )
   }
 }
 

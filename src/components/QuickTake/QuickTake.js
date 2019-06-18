@@ -34,7 +34,7 @@ class QuickTake extends Component {
                                 <h5 >Graduate Student in Neuroscience</h5>
                                 <br />
                                 <br />
-                                <h6 className="text-align"> I have recently joined Lisa Giocomo's Lab. We study navigation. Before this, I was extremely lucky to work with Marty Usrey, Henry Alitto, and Krishna Shenoy.</h6>
+                                <h6 className="text-align"> I recently joined Lisa Giocomo's lab. We study navigation. Before this, I was lucky to work with W. Marty Usrey, Henry J. Alitto, and Krishna V. Shenoy.</h6>
                                 <br />
                                 <h7>(for the most part this is a place to share photography)</h7>
                                 <br />
@@ -57,9 +57,9 @@ class QuickTake extends Component {
                                 </Link>
                             </Col>
                             <Col>
-                                <a className="mylink" href="https://scholar.google.com/citations?user=9r-N8UkAAAAJ&hl=en&oi=ao" >
+                                <Link to="/science" className="mylink" >
                                     <FaFlask size={50} />
-                                </a>
+                                </Link>
                                 <br />
                                 <br />
                                 <h6> Science </h6>
@@ -68,7 +68,7 @@ class QuickTake extends Component {
                     </Col>
                 </Row>
             </Container>
-        );
+        )
     }
 }
 

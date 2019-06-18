@@ -7,20 +7,26 @@ class PhotoShow extends Component{
     super(props);
     this.state={
       galleries: gallery_data.galleries,
-    };
+    }
   }
   
+  choosePhotos = (urls, res) => {
+    var chosen_photos = urls.map( imgurl => {
+      return imgurl + res;
+   })
+    return chosen_photos;
+  }
+
   renderTitlePhotoshow =  title => {
       for (const curr_gal of this.state.galleries){
         if (curr_gal.name === title) {
           var image_res = curr_gal.resolution;
-          var chosen_photos = curr_gal.urls.map( imgurl => {
-            return imgurl + image_res;
-          });
+          var urls = curr_gal.urls
+          var chosen_photos = this.choosePhotos(urls, image_res)
         }
       }
 
-    var photo_cards = chosen_photos.map( urls => {
+    var photo_cards = chosen_photos.map( url => {
       return(
         <ListGroupItem>
           <Row>
@@ -32,7 +38,7 @@ class PhotoShow extends Component{
               <br />
               <br />
               <br />
-              <img width="80%" height="auto" src={urls} alt="a photo"/>
+              <img width="80%" height="auto" src={url} alt={url}/>
               <br />
               <br />
               <br />
@@ -44,7 +50,7 @@ class PhotoShow extends Component{
           </Row>
         </ListGroupItem>
       )
-    }) 
+    })
 
     return photo_cards;
   }
@@ -53,6 +59,6 @@ class PhotoShow extends Component{
   render() {
     return <ListGroup>{this.renderTitlePhotoshow(this.props.title)}</ListGroup>;
   }
-};
+}
 
 export default PhotoShow;

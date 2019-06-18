@@ -1,0 +1,177 @@
+{ 
+    "pubs": [
+        {
+            "date": "2019-06-06",
+            "details": 
+                {
+                    "format": "preprint",
+                    "publisher": "BioRxiv",
+                    "specifics": "",
+                    "url": "https://www.biorxiv.org/content/10.1101/661165v1"
+                },
+            "authors": 
+                [
+                    "Williams A.H.",
+                    "Poole B.",
+                    "Maheswaranathan N.",
+                    "Dhawale A.K.",
+                    "Fisher T.G.",
+                    "Wilson C.D.",
+                    "Brann D.H.",
+                    "Trautmann E.M.",
+                    "Ryu S.",
+                    "Shusterman R.",
+                    "Rinberg D.",
+                    "Olvekzky B.",
+                    "Shenoy K.V.",
+                    "Ganguli S."
+                ],
+            "title": "Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping",
+            "abstract": "Though the temporal precision of neural computation has been studied intensively, a data-driven determination of this precision remains a fundamental challenge. Reproducible spike time patterns may be obscured on single trials by uncontrolled temporal variability in behavior and cognition, or may not even be time locked to measurable signatures in either behavior or local field potentials (LFP). To overcome these challenges, we describe a general-purpose time warping framework that reveals precise spike-time patterns in an unsupervised manner, even when spiking is decoupled from behavior or is temporally stretched across single trials. We demonstrate this method across diverse systems: cued reaching in nonhuman primates, motor sequence production in rats, and olfaction in mice. This approach flexibly uncovers diverse dynamical firing patterns, including pulsatile responses to behavioral events, LFP-aligned oscillatory spiking, and even unanticipated patterns, like 7 Hz oscillations in rat motor cortex that are not time-locked to measured behaviors or LFP."
+        },
+        {
+            "date": "2018-03-08",
+            "details": 
+                {
+                    "format": "paper",
+                    "publisher": "European Journal of Neuroscience",
+                    "specifics": "49(8): 1061-1068",
+                    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.13904"
+                },
+            "authors": 
+                    [
+                        "Alitto H.J.",
+                        "Rathbun D.L.",
+                        "Fisher T.G.",
+                        "Alexander P.C.",
+                        "Usrey W.M."
+                    ],
+            "title": "Contrast gain control and retinogeniculate communication",
+            "abstract": "Visual information processed in the retina is transmitted to primary visual cortex via relay cells in the lateral geniculate nucleus (LGN) of the dorsal thalamus. Although retinal ganglion cells are the primary source of driving input to LGN neurons, not all retinal spikes are transmitted to the cortex. Here, we investigate the relationship between stimulus contrast and retinogeniculate communication and test the hypothesis that both the time course and strength of retinogeniculate interactions are dynamic and dependent on stimulus contrast. By simultaneously recording the spiking activity of synaptically connected retinal ganglion cells and LGN neurons in the cat, we show that the temporal window for retinogeniculate integration and the effectiveness of individual retinal spikes are inversely proportional to stimulus contrast. This finding provides a mechanistic understanding for the phenomenon of augmented contrast gain control in the LGN—a nonlinear receptive field property of LGN neurons whereby response gain during low‐contrast stimulation is enhanced relative to response gain during high‐contrast stimulation. In addition, these results support the view that network interactions beyond the retina play an essential role in transforming visual signals en route from retina to cortex."
+        },
+        {
+            "date": "2017-01-04",
+            "details": 
+                {
+                    "format": "paper",
+                    "publisher": "Journal of Neuroscience",
+                    "specifics": "37(1): 226-235",
+                    "url": "http://www.jneurosci.org/content/37/1/226"
+                },
+            "authors":
+                [
+                    "Fisher T.G.",
+                    "Alitto H.J.",
+                    "Usrey W.M."
+                ],
+            "title": "Retinal and nonretinal contributions to extraclassical surround suppression in the lateral geniculate nucleus",
+            "abstract": "Extraclassical surround suppression is a prominent receptive field property of neurons in the lateral geniculate nucleus (LGN) of the dorsal thalamus, influencing stimulus size tuning, response gain control, and temporal features of visual responses. Despite evidence for the involvement of both retinal and nonretinal circuits in the generation of extraclassical suppression, we lack an understanding of the relative roles played by these pathways and how they interact during visual stimulation. To determine the contribution of retinal and nonretinal mechanisms to extraclassical suppression in the feline, we made simultaneous single-unit recordings from synaptically connected retinal ganglion cells and LGN neurons and measured the influence of stimulus size on the spiking activity of presynaptic and postsynaptic neurons. Results show that extraclassical suppression is significantly stronger for LGN neurons than for their retinal inputs, indicating a role for extraretinal mechanisms. Further analysis revealed that the enhanced suppression can be accounted for by mechanisms that suppress the effectiveness of retinal inputs in evoking LGN spikes. Finally, an examination of the time course for the onset of extraclassical suppression in the LGN and the size-dependent modulation of retinal spike efficacy suggests the early phase of augmented suppression involves local thalamic circuits. Together, these results demonstrate that the LGN is much more than a simple relay for retinal signals to cortex; it also filters retinal spikes dynamically on the basis of stimulus statistics to adjust the gain of visual signals delivered to cortex."
+        },
+        {
+            "date": "2015-05-20",
+            "details": 
+                {
+                    "format": "review",
+                    "publisher": "Journal of Neuroscience",
+                    "specifics": "35(20) 7657-7659",
+                    "url": "http://www.jneurosci.org/content/35/20/7657"
+                },
+            "authors":
+                [
+                    "Fisher T.G."
+                ],
+            "title": "Parsing and predicting increased noise in visual cortex",
+            "abstract": ""
+        },
+        {
+            "date": "2018-11-03",
+            "details":
+                {
+                    "format": "poster",
+                    "publisher": "Society for Neuroscience Annual Meeting",
+                    "specifics": "San Diego, CA",
+                    "url": ""
+
+                },
+            "authors":
+                [
+                    "Fisher T.G.",
+                    "Trautmann E.M.",
+                    "Sun X.",
+                    "O'Shea D.J.",
+                    "Ryu S.",
+                    "Shenoy K.V."
+                ],
+            "title": "Signatures of proprioception and vision relevant to corrective motor responses in primate",
+            "abstract": ""
+        },
+        {
+            "date": "2018-11-03",
+            "details":
+                {
+                    "format": "poster",
+                    "publisher": "Society for Neuroscience Annual Meeting",
+                    "specifics": "San Diego, CA",
+                    "url": ""
+                },
+            "authors":
+                [
+                    "Williams A.H.",
+                    "Poole B.",
+                    "Maheswaranathan N.",
+                    "Dhawale A.K.",
+                    "Brann D.H.",
+                    "Olvekzky B.",
+                    "Trautmann E.M.",
+                    "Fisher T.G.",
+                    "Ryu S.",
+                    "Shenoy K.V.",
+                    "Shusterman R.",
+                    "Wilson C.D.",
+                    "Rinberg D.",
+                    "Ganguli S."
+                ],
+            "title": "Automatic alignment of neural data by piecewise linear time warping",
+            "abstract": ""
+        },
+        {
+            "date": "2016-11-09",
+            "details":
+                {
+                    "format": "poster",
+                    "publisher": "Society for Neuroscience Annual Meeting",
+                    "specifics": "San Diego, CA",
+                    "url": ""
+                },
+            "authors":
+                [
+                    "De Meo R.",
+                    "Fisher T.G.",
+                    "Yakarae Y.",
+                    "Rivera S.M.",
+                    "Saron C.D."
+                ],
+            "title": "Electrophysiological response to sounds of different loudness in children on the autism spectrum and typically developing children: an ERP study",
+            "abstract": ""
+        },
+        {
+            "date": "2015-11-09",
+            "details": 
+                {
+                    "format": "poster",
+                    "publisher": "Society for Neuroscience Annual Meeting",
+                    "specifics": "Chicago, IL",
+                    "url": ""
+                },
+            "authors":
+                [
+                    "Fisher T.G.",
+                    "Alitto H.J.",
+                    "Rathbun D.L.",
+                    "Usrey W.M."
+                ],
+            "title": "Contribution of retinal and nonretinal mechanisms to nonlinear receptive field properties in the lateral geniculate nucleus",
+            "abstract": ""
+        }
+    ]
+}

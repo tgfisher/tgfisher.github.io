@@ -3,8 +3,6 @@ import { Container, Row, Col } from 'reactstrap';
 
 import moment from 'moment';
 
-import './GalleriesList.css';
-
 import gallery_data from '../../galleries.json'; // in future, load from S3 or similar
 import GalleriesListGroup from './GalleriesListGroup.js';
 
@@ -14,7 +12,7 @@ class GalleriesList extends Component {
     this.state = {
       galleries: gallery_data.galleries,
       max_galleries: 5,
-    };
+    }
   }
 
   render_GalleryGroups() {
@@ -26,15 +24,13 @@ class GalleriesList extends Component {
       } else {
         return false;
       }
-    });
+    })
 
-    var film_galleries = this.state.galleries.filter(
-      (_, i) => is_film[i]
-    );
-    var digital_galleries = this.state.galleries.filter((_, i) => !is_film[i]);
+    var film_galleries = this.state.galleries.filter((_, i) => is_film[i])
+    var digital_galleries = this.state.galleries.filter((_, i) => !is_film[i])
 
-    film_galleries.sort((a, b) => moment(a.date).diff(moment(b.date))); // ascending sort
-    digital_galleries.sort((a, b) => -moment(a.date).diff(moment(b.date)));
+    film_galleries.sort((a, b) => moment(a.date).diff(moment(b.date))) // ascending sort
+    digital_galleries.sort((a, b) => -moment(a.date).diff(moment(b.date)))
 
     return (
       <Container>
@@ -67,7 +63,7 @@ class GalleriesList extends Component {
           </Col>
         </Row>
       </Container>
-    );
+    )
   }
 
   render() {

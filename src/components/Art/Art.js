@@ -9,7 +9,7 @@ class Art extends Component {
            <GalleriesList />
         <br />
       </Fragment>
-    );
+    )
   }
 }
 

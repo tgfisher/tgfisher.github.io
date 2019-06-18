@@ -13,17 +13,16 @@ class GalleriesListGroup extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            
             galleries: gallery_info.galleries,
             max_galleries: 1,
-        };
+        }
     }
 
     renderMedium = gallery => {
         const medium = gallery.medium;
         if (medium.type && medium.format && medium.body){
-        const kit = medium.body + ' ' + medium.model + ': ' + medium.format + ' ' + medium.type + ' camera' 
-        const captureId =  gallery.name + gallery.date
+            const kit = medium.body + ' ' + medium.model + ': ' + medium.format + ' ' + medium.type + ' camera' 
+            const captureId =  gallery.name + gallery.date
 
             return (
                 <span>
@@ -36,7 +35,7 @@ class GalleriesListGroup extends Component {
                         { kit }
                     </UncontrolledTooltip>
                 </span>
-            );
+            )
         }
     }
 
@@ -47,14 +46,15 @@ class GalleriesListGroup extends Component {
             </span>
         )
     }
+
     renderGalleries = galleries => {
         if (galleries.length === 0) {
-            return <div> ...no photos :( </div>
+            return <div> ...no photos :( </div>;
         }
 
         var gallery_render_list = galleries.map( gallery => {
             gallery.medium.urls = gallery.urls
-            let gallery_notes= null;
+            let gallery_notes = null;
             if (gallery.comments.length > 0) {
                 gallery_notes = (
                     <span>
@@ -79,8 +79,8 @@ class GalleriesListGroup extends Component {
                     </ListGroupItem>
                     <br/>
                 </span>
-            );
-        });
+            )
+        })
         const n_galleries = gallery_render_list.length;
         let gallery_render_wrapper = <div>{gallery_render_list}</div>;
         if (n_galleries > this.state.max_galleries) {
@@ -88,7 +88,7 @@ class GalleriesListGroup extends Component {
             gallery_render_list = gallery_render_list.slice(
                 0,
                 this.state.max_galleries
-            );
+            )
             gallery_render_wrapper = (
                 <div>
                     {gallery_render_list}
@@ -98,7 +98,7 @@ class GalleriesListGroup extends Component {
                         onClick={e => {
                             this.setState({
                                 max_galleries: this.state.max_galleries + 5,
-                            });
+                            })
                         }}
                     >
                         {' '}
@@ -108,10 +108,10 @@ class GalleriesListGroup extends Component {
             )
         }
         return gallery_render_wrapper;
-    };
+    }
 
     render() {
-        return <ListGroup>{this.renderGalleries(this.props.galleries)}</ListGroup>
+        return <ListGroup>{this.renderGalleries(this.props.galleries)}</ListGroup>;
     }
 }
 

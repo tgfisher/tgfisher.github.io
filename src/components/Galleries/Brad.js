@@ -6,7 +6,7 @@ class Brad extends Component {
       <Fragment>
           <PhotoShow title="Brad" />
       </Fragment>
-    );
+    )
   }
 }
 
