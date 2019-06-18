@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "cf4db69dbe96fdaee90e",
-    "url": "/static/css/main.c130cf0c.chunk.css"
+    "revision": "3ac44405a967f63c787b",
+    "url": "/static/css/main.807f3768.chunk.css"
   },
   {
-    "revision": "cf4db69dbe96fdaee90e",
-    "url": "/static/js/main.cf4db69d.chunk.js"
+    "revision": "3ac44405a967f63c787b",
+    "url": "/static/js/main.3ac44405.chunk.js"
   },
   {
-    "revision": "5dbbf8b8f917765689bb",
-    "url": "/static/css/1.25f2b0d6.chunk.css"
+    "revision": "f4e7a12524a2b6a46b3f",
+    "url": "/static/css/1.f94eb3da.chunk.css"
   },
   {
-    "revision": "5dbbf8b8f917765689bb",
-    "url": "/static/js/1.5dbbf8b8.chunk.js"
+    "revision": "f4e7a12524a2b6a46b3f",
+    "url": "/static/js/1.f4e7a125.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/Datura_RIP.1064032a.jpg"
   },
   {
-    "revision": "dff33e2215a5923ac2b4b327928f19ac",
+    "revision": "49a9517de410a2809d0c65da53e227f7",
     "url": "/index.html"
   }
 ];
