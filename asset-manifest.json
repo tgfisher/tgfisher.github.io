@@ -1,17 +1,19 @@
 {
-  "main.css": "/static/css/main.807f3768.chunk.css",
-  "main.js": "/static/js/main.3ac44405.chunk.js",
-  "main.js.map": "/static/js/main.3ac44405.chunk.js.map",
-  "static/css/1.f94eb3da.chunk.css": "/static/css/1.f94eb3da.chunk.css",
-  "static/js/1.f4e7a125.chunk.js": "/static/js/1.f4e7a125.chunk.js",
-  "static/js/1.f4e7a125.chunk.js.map": "/static/js/1.f4e7a125.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/DSCF9079.jpg": "/static/media/DSCF9079.c1f13ad5.jpg",
-  "static/media/Datura_RIP.jpg": "/static/media/Datura_RIP.1064032a.jpg",
-  "static/css/main.807f3768.chunk.css.map": "/static/css/main.807f3768.chunk.css.map",
-  "static/css/1.f94eb3da.chunk.css.map": "/static/css/1.f94eb3da.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f8f7826f429460e328c4b85885d484cd.js": "/precache-manifest.f8f7826f429460e328c4b85885d484cd.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.ed6484f9.chunk.css",
+    "main.js": "/static/js/main.24b90252.chunk.js",
+    "main.js.map": "/static/js/main.24b90252.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.0f7a873c.chunk.css": "/static/css/2.0f7a873c.chunk.css",
+    "static/js/2.582718ee.chunk.js": "/static/js/2.582718ee.chunk.js",
+    "static/js/2.582718ee.chunk.js.map": "/static/js/2.582718ee.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee20c7d38f5453215ee431aa26ac12d8.js": "/precache-manifest.ee20c7d38f5453215ee431aa26ac12d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0f7a873c.chunk.css.map": "/static/css/2.0f7a873c.chunk.css.map",
+    "static/css/main.ed6484f9.chunk.css.map": "/static/css/main.ed6484f9.chunk.css.map",
+    "static/media/DSCF9079.jpg": "/static/media/DSCF9079.c1f13ad5.jpg",
+    "static/media/Datura_RIP.jpg": "/static/media/Datura_RIP.1064032a.jpg"
+  }
 }
