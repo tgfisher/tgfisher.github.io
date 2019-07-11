@@ -22,7 +22,9 @@ Built with React, React Router, and Bootstrap (via [reactstrap](https://reactstr
 
 ```bash
 🐒  yarn upgrade --latest 
+🐒  yarn install # might be required after upgrade
 ```
+
 
 ### Deployment
 
