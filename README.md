@@ -9,18 +9,24 @@ Built with React, React Router, and Bootstrap (via [reactstrap](https://reactstr
 1. Install dependencies
 
 ```bash
-$ yarn install
+🐒  yarn install
 ```
 
 2. Start the local server
 
 ```bash
-$ yarn start
+🐒  yarn start
+```
+
+### Fix Vulnerabilities
+
+```bash
+🐒  yarn upgrade --latest 
 ```
 
 ### Deployment
 
 ```bash
-$ git checkout source 
-$ yarn deploy
+🐒  git checkout source 
+🐒  yarn deploy
 ```
