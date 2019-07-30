@@ -1,6 +1,94 @@
 {
     "galleries": [
         {
+            "date": "2018-08-30",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "XT-3"
+            },
+            "name": "SFArchitecture",
+            "link": "/sfarchitecture",
+            "thumbnail_idx": 0,
+            "comments": "Looking up at the city",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/vVOpvPFcx13QICzxkrR_i9FNyCZRmHKZu8C7RYCKDXx2zpFBce3WutFki1g4WrP_X4XDyCZ5QzbypKgFNc6Br0NfKaajgqlysbHqhrV41L6ga9WurowWZzgw7GGc64N2dUgZ_I4BuQ",
+                  "https://lh3.googleusercontent.com/ZivNw0KgIlrjkMzFaZ-rM-BLjVwQa2fzyDk-6YVov-YPNBVHEvm8foZip9JTir4AVmu1FzuNIgI22EbbBNLuzn4cNJD1Cf6_nP2PyOM1CS-A1pdA8_Spb3uzDcL5AirAnKmyNd2XIg",
+                  "https://lh3.googleusercontent.com/3zcbETrTd6hIuVBX9nQedROjiGnZN5Zo42_1CVbIVw6TTWu96KBR1jhxygSQ1_AWxgKSRJdD4em56vYQKyyYZeeuueijxBUqymlWX48Fs50dyYB3Ak92G1-elfzsXJ3UbCaQIrMGPA",
+                  "https://lh3.googleusercontent.com/8IXrpPd89MGAfTOBXcQA9cYoec_1X02QvNZ8jxpzSQ-MBJhWu7xdc4MHw1k4V0pA5qoFPZZfq0Rz60RnuhQxX8kV4pYzZJbQIPIrz4uFwIeNT6rc3-XnqnLka_EB3edenNip5fZwwA",
+                  "https://lh3.googleusercontent.com/XQsbBTPf35fjQbuuLe6P3-IdWeo7RSk_Hv06RdEKrqD8xK5LYnJAiYOlMIBh0DlNTwdEV1djQNvYo-LhTT2lB1aDAXU29BbCAtJqhK0lvnrq6T1GcrWy7HDjFAX3tvcTDu303-gg0w",
+                  "https://lh3.googleusercontent.com/xTmg9eHBZ_YX2yBlOebLucRkvwlq5QZuVT8GI1WnYZDJZ9wHMaQPLXydvoxNtHglgu-4RHb6cfBMMK-fR4Chtm6qC059FUUfwVvp0oR4MxBYl2TxCTEGjduTU9KlFA8FPpOahpSNDg",
+                  "https://lh3.googleusercontent.com/uYEZkh_vEfHu9Q4wdKRh9al6BbdaKNIipJr4sVvQidfR4C93hUyG8CyiExEbjjfbOhM_PaBgqXkT-90og8iiSRogIF4UnmpjWjp3dGL4uHoCoSIRzXDXYCNtS3_Jc1zAbVF9nj0R4A",
+                  "https://lh3.googleusercontent.com/mHLTbKQ0pJk173U-KBbDhmFwNJnCqWMkkJjCS8DRfLwXQ2EAOmXH0f13Ky8A1givPcZHYts2pjwvvTm9mRSCa3jB7jkm_IyrGVvHS5w9iYqSRQp7C86Yu6u-4omJTGTDlZdBX1PQ1Q",
+                  "https://lh3.googleusercontent.com/N_K1Tk-bsidi0dW5sFo8_z152JEjMEfxRv-bVudltFMnEY2s-KRqWzUIS3NfwnRind1aAR71T5upxCV_taX-zfRcMlGTG-xn9IzTePdgHu0YscozoWQ7cP3qQxMbw8A2gcg2L99sNw",
+                  "https://lh3.googleusercontent.com/pc1ifY3iwzUx-2eWeFtxb6beQk08ya_HzGZEdDhcxO8M6izRXV-76F145gTTcsZ92BZszDHCU_hIYzVMzaBgOEnfsceC3lRqkiArYufqcwH9a7I5wC-dmyHOqvPtRJ-KaZ-m7sfMhA",
+                  "https://lh3.googleusercontent.com/Il5HAYbLdt0gj7EfBEuLh7E7rKafO0XFV3p73f3QdyM_gs814lXhBelgA_CBvaxICXF8C8PL3lWUtzjutOEn4t0XCznKe1E8tn6H4rSdQdHdLo_f3MbA0ZWCADUGCYYFk-n8W8oTbQ",
+                  "https://lh3.googleusercontent.com/sjxoMKu5gxwlJ8uecSO4mKWnVpRRjFsXmWQin8KsLPEAtCL53S0WYeI4cDC25vRDvm2DUI8pRn8KqfJtvrKlq8sQ2M3p2R16Ps8VtDLGztTBc3zQYKEoepozo3vKVU9hQwWpPgknFA",
+                  "https://lh3.googleusercontent.com/xkzHkiQuHH0N9A-kuzAKK3na8oWthghNeCFp3mb_st2yeNgJ7YmR9nFzl2NC1_bibq9xaHImF5qx2dUAZetN-701gZb1gA8ONGzk9H_FnVGrc3YxN5MhYUw3u91Rc57slnuBBiR5tw"
+],
+            "resolution": "=w5000-h5000"
+        },
+        {
+            "date": "2016-08-30",
+            "medium": {
+                   "type": "film",
+                   "format": "35mm",
+                   "body": "Olympus",
+                   "model": "XA"
+            },
+            "name": "HongKong",
+            "link": "/hongkong",
+            "thumbnail_idx": 0,
+            "comments": "A few snapshots of Hong Kong",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/37nICIzWCSsb3g-zk-7D2kJ4oQlHs0jG6rJJkiHAV-O5tVFghP_8i8Udn-ZzFkkMQ_pBQRx0SY4U7Zx62vDbnG2ywIu2WFZHVc8F3yuI0cLUVLTXo7vfLfIMOnbw6Z572WGMx57lqw",
+                  "https://lh3.googleusercontent.com/umKn7R4rVOFWx0HXcC5VcMjxITXVP9528VryZwkKh6Ct4e1Bh0yOyHl7n7g5XlWCz_WsJY5Tl6HYE_S_YoE76JD0pVpFTQH25DmihEi8xAuUXvkCfEJZuqz-r69f9kdbJ5BJ8fHi2w",
+                  "https://lh3.googleusercontent.com/iQDbZXQ3VJiTj12rA2MIeOvJOnIMqseaUO8HGQsurnJ42-HvMkFXqzPjT7EAXEq_ZEJSo6wbW86yC6nw2Eyp5fXNUQSDRZrCrJ-8BzZ6w-fFJTshYUlWlOUCQm-fpMLZJwU7AiafTg",
+                  "https://lh3.googleusercontent.com/bDwYOMLI48ppndn90rYlrZ3OA6TJPUZlrdLf2bfwWZwAMgMLJ8cO5Q_qzXytG9xEz9qIMepIl-lQmMmutKoFE1I08StLBkjWqeAMLKSZc1Ek-g5NjzmylGjUfdKE5K1zBCchmW2Iow",
+                  "https://lh3.googleusercontent.com/lpc8CABbxfMO7tSQKJnMDO86o_Mrp0CRe61-VjJ9n9DTRTLmlj2b5VlbKpADvhElpz4_1RVUe9DPBJJJtiCfqKptYTM7l56O7pU9cUdhqj9Fyqa5HpdjpyuZA8_4llBop6YnfKp69A",
+                  "https://lh3.googleusercontent.com/oAnNuq6rh7MkNA6t2D3VioyebnPFN3iEeA2MKbHP2OVc2WQEEeny_rxXjCyMN2nOR3oZkcAnE_2KW9IzXjGiWzma9nvC2sF8POzC9hGlfRTon4mKbbs3dQk6S_lD-_VB5U41mr0kmg",
+                  "https://lh3.googleusercontent.com/Am1TKTTCSEIl9aYJovYQ0M4l95J0VAWWAZO142_3BwvaoUlrjUtnuD8W5MfwwUzQwFBj6yVxBz6-ccfJBqYfDa8Ucs5DR8QgXfsTkhl5iHHTUCoeidSBZKZTeFwkqCzj-kCspnAHlQ",
+                  "https://lh3.googleusercontent.com/CHBTCJseHP5wGpc48hL8vIE14kvxZLNjYY_q1QGrprtVISAXXCF5F0tNEi1Ce5kpgk9FR8CCeTdZ2cW0U4Kp8uQZqP-DwNhrtfHH8jbQfEiqsJCsSfvZANIN9tJUI_VPcrXrgASHuw"
+                 ],
+            "resolution": "=w5000-h5000"
+        },
+        {
+            "date": "2019-07-27",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "XT-1/XT-3"
+            },
+            "name": "Portraits",
+            "link": "/portraits",
+            "thumbnail_idx": 0,
+            "comments": "Portrait work of friends and family.",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/fo7LQ0fnLn5IUaqxfVCGRYQpMhsP4QzHHlZKvlw5RA9HQeS-zEafzpCK03ywl1YyU-ckAYwM4x7vrY-_9GLFWIKsP6SQbjcLi0LMcAgKADRiR2BYMkKjJm0sGorYkQdxdV256aeiQw",
+                  "https://lh3.googleusercontent.com/Jw0njTl_MVNvNygwErwfPyAdQurGQiQBijshs23znUyC2LRx175pczZtzqta5PT3meUIj8cq8vy2qIGi40VS4XUEZ3BsvaSvQmotlrPL3FvyKqvbte8DT4yth6kTnfDB3oLNcMQyLw",
+                  "https://lh3.googleusercontent.com/DWNvQBcdJ5vnpKLQ5cfFxhGyzn-LDPRVHWj4H8bZEfbNfJyeMtnlk3KwyIgR9oZuKqq4IhQ7OnfwPfRpPOCwBrw-urwzxYIkVprv-YTFNKoNyXWZdjRySrIJ3w5jDQr4mUP-DCgDfA",
+                  "https://lh3.googleusercontent.com/oFJou6rIB-6C9tpUVs978K_FMysGDawftV_QpCdmcn-wEoUAn1EDBh68J_QEQ9MWOs9B-6jrs-CF3BWkdUunlNOIUaQo4wuQsFEadZnBtwIYu8SRUg146SOOmx4miRIkn79tHT2egQ",
+                  "https://lh3.googleusercontent.com/x1q-y-_QCguKpMjp9PJ6ha_20cv2-z6uJtZw1CK_aJJOq0SAwsRTSrzuPE6GxTmSakuwXjrLmK7QVjPnbY760sCPu-KucUT-t54k8LPgM-NkHm_VyXZ5UOWaT0u54zYk5e2UZj3R_A",
+                  "https://lh3.googleusercontent.com/Ym9DGhSGo3HTxB7yX_iWqR8bGXzlC2cXVJvX3DVEzUkRbTeCAWv0gG5gmkTMiOgsrNmmJmMVSiEBm8BQ2VQWiOokmYXATxxzagpoS-92G-CcnSgTHMvG0fN_ztt2JcY_-zTqBZEEpA",
+                  "https://lh3.googleusercontent.com/-DXwoam1zFhwUgQ_CYU-aEZaOHGFTcRmBe-2a1Q5mg7ZdtUB47IoYLJkFaPzxFcvRMowWeaJqxnQJ4819IdH287gLQOwlUuX72Kj5oM149EMQ4OJBBs8TfrmYDLgG47Zxg8xYZSdgg",
+                  "https://lh3.googleusercontent.com/GOhXmHqhuj4qc84H8YYjraSP3ZGbKTt_CyH-B6FrRJJCkT_J4x_cCLefj78jL1FcQRJdYH6YIm_AzTf4Eg1wGqlVwqAwGWV_iW1tBdnRjqDR8llFvkxp6OFaoilaw2d7PV8_nUCO3w",
+                  "https://lh3.googleusercontent.com/QGr072_4Em8-PPGcWVl8tWGlVehrhCWWHapg7ktEDZOgvVJHGr72XG5GeDd68UmSH1vmflqKs__rPsNeVmV373iwgGe711z4rfizXRBdaY6AQa0OOE7vB4WCQoad-DmdwiKSo3yXTw",
+                  "https://lh3.googleusercontent.com/YDA9QX-4Ak2k6xTxNb_ts9dqLIBZCeMZ6EeNKZl2z3sJWoibFOOIn_5zI03lChin43zAJoSLGttzCN7daX3MVozgZ_R9GOtaw0Uwjjx0p-dCRFsOLFxpBZ8-GzZVBAjz3hNgjL8_Fg",
+                  "https://lh3.googleusercontent.com/0n4Xngksgro4NkcCpZbefhKQydCH8y3twUKuu20Ap7KlvqnPnT1Wmr2WvZ9TqBTYCxBc_kA9U6UFfsMZOxg-ElqBs4mVg4-1RWfQGbYCn-voO1fjmeJIvfFxQeqZyvXulu-My_cgww",
+                  "https://lh3.googleusercontent.com/R6TF6nsSKL53dQtUdQMcE4gaRyN_XtVZXcTuIANwGbTl3VR5ZPAQtOtcVYmlpa-CBGj6WbtAi-YVMQeum-omcNXv2ORy9un_zsXGoKPIljNXqOdShspHje6HxDf_TqKNOiNV3oeZuw",
+                  "https://lh3.googleusercontent.com/13bY-P7FYgnH1U9TCgPjLYG-PHoD4437WXU5bV5bOOdNaf1_vm5tjq4mglvhkE5i3LzLb-mNpnlCobFSXHN_vv1n6KgPawtfsCqJIx7CBTpGMmULKA7ynw2C4cMvRXKLsDHu0NGk5w"
+],
+            "resolution": "=w5000-h5000"
+        }
+    ],
+
+    "retired_galleries" : [
+        {
             "date": "2019-06-15",
             "medium": {
                    "type": "digital",
@@ -22,26 +110,7 @@
                     "https://lh3.googleusercontent.com/9h5-Lq3QW7xBtyD37BWhB9AFX7DgNrU6HfY1u2tbIxVs8-fw623KScluz2IbRs-NiHlJ6QdBU-ASEPjGf1CYRdHF6x6JwiKCemtZ8ZNycxj2_Cx2xpB8HAcGkCACYXfd0xFTFgkygw"
                   ],
             "resolution": "=w1000-h1000"
-        },
-        {
-            "date": "2016-08-30",
-            "medium": {
-                   "type": "film",
-                   "format": "35mm",
-                   "body": "Olympus",
-                   "model": "XA"
-            },
-            "name": "China",
-            "link": "/china",
-            "thumbnail_idx": 0,
-            "comments": "A few snapshots of Hong Kong",
-            "urls":
-                [
-                    "https://lh3.googleusercontent.com/lpc8CABbxfMO7tSQKJnMDO86o_Mrp0CRe61-VjJ9n9DTRTLmlj2b5VlbKpADvhElpz4_1RVUe9DPBJJJtiCfqKptYTM7l56O7pU9cUdhqj9Fyqa5HpdjpyuZA8_4llBop6YnfKp69A",
-                    "https://lh3.googleusercontent.com/37nICIzWCSsb3g-zk-7D2kJ4oQlHs0jG6rJJkiHAV-O5tVFghP_8i8Udn-ZzFkkMQ_pBQRx0SY4U7Zx62vDbnG2ywIu2WFZHVc8F3yuI0cLUVLTXo7vfLfIMOnbw6Z572WGMx57lqw",
-                    "https://lh3.googleusercontent.com/Am1TKTTCSEIl9aYJovYQ0M4l95J0VAWWAZO142_3BwvaoUlrjUtnuD8W5MfwwUzQwFBj6yVxBz6-ccfJBqYfDa8Ucs5DR8QgXfsTkhl5iHHTUCoeidSBZKZTeFwkqCzj-kCspnAHlQ"
-                  ],
-            "resolution": "=w5000-h5000"
         }
     ]
 }
+

@@ -14,7 +14,7 @@ class GalleriesListGroup extends Component {
         super(props);
         this.state = {
             galleries: gallery_info.galleries,
-            max_galleries: 1,
+            max_galleries: 5,
         }
     }
 
