@@ -11,6 +11,9 @@ import Brad from './components/Galleries/Brad';
 import HongKong from './components/Galleries/HongKong';
 import Portraits from './components/Galleries/Portraits';
 import SFArchitecture from './components/Galleries/SFArchitecture';
+import SammyPhotowalk from './components/Galleries/SammyPhotowalk';
+
+
 
 class App extends Component {
   render() {
@@ -27,6 +30,7 @@ class App extends Component {
           <Route exact path="/hongkong" component={HongKong} /> 
           <Route exact path="/portraits" component={Portraits} />
           <Route exact path="/sfarchitecture" component={SFArchitecture} />
+          <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
         </div>
       </Router>
     );

@@ -84,7 +84,30 @@
                   "https://lh3.googleusercontent.com/13bY-P7FYgnH1U9TCgPjLYG-PHoD4437WXU5bV5bOOdNaf1_vm5tjq4mglvhkE5i3LzLb-mNpnlCobFSXHN_vv1n6KgPawtfsCqJIx7CBTpGMmULKA7ynw2C4cMvRXKLsDHu0NGk5w"
 ],
             "resolution": "=w5000-h5000"
+        },
+        {
+            "date": "2019-08-12",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "XT-3"
+            },
+            "name": "SammyPhotowalk",
+            "link": "/sammyphotowalk",
+            "thumbnail_idx": 0,
+            "comments": "Some photos from Sammy's last photoclub meeting before she moves.",
+            "urls":
+                [
+                      "https://lh3.googleusercontent.com/34EfA8PunDH7oBky8RaZXN0kNZm2EoEg5wCpFWItuuD6bSaUexFVcvwLa4UzlFxOIvHgi_XnAYiIcqxFXF1VYAquRbqmE0w_cj1HzRaSHp71Bv2Tbinme4BvRjEM8qSI3qC55ISXEQ",
+                      "https://lh3.googleusercontent.com/-g-mTX7QPfGkDl-qGyfehrARdf8mZuXHfuPANaJwHEUQc8EyBcnToMchvrEGbAY9rdRJJcZh5OtzPMkG1ZYP0dv6vmz1jIjGct6jmYc4S-j0y7DtFRtKgS0SOyQg8NrAgl5OhgwC0Q",
+  "https://lh3.googleusercontent.com/bFJSkAr_1r9Ki0Cs4bvzAqPnR1Uexrn72avwqZaVIj-VqVWC_OtjVR0Mvyy9J3j9A8fWeacl76kR0zNZOft8bpO63gq0eRYDqHnK79RYUd8BArHgDffRekjcoqyt058jPp15M2oGyw",
+                      "https://lh3.googleusercontent.com/nOGq99coIpWfTdkNJfGkSWkq1L3D9lh1wZQ1ULJjxIYCAhBwUx9hxwn8hl_p3N7gxBPqWS0yCy6gNFKzJPAQIB9hwcPYdxdXgPSIhD3w-4kz8uFMOoomeICu8wnjOqVnGl1hcgcRww",
+                      "https://lh3.googleusercontent.com/h2n5KiypY5p0wB1-e875mooUVKhLaKJfkpFLssiYHqvKOYZ5Ry9nqyOUUwChMeVVsJ_kzwBPgAXMfUZ4H3h___kcr5eBTLni9u0f16mIkzhwxPcS11sLrmOm0hyGGaJohzPSmpXFLA"
+                ],
+            "resolution": "=w5000-h5000"
         }
+
     ],
 
     "retired_galleries" : [
