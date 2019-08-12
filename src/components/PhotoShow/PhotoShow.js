@@ -1,15 +1,37 @@
 import React, {Component} from 'react';
-import {ListGroupItem, ListGroup, Row, Col } from 'reactstrap';
+import { ListGroup, Row, Col } from 'reactstrap';
 import gallery_data from '../../galleries.json'
 
 class PhotoShow extends Component{
   constructor(props) {
     super(props);
     this.state={
+      height: 0,
+      width: 0,
       galleries: gallery_data.galleries,
     }
+    this.updateDims = this.updateDims.bind(this);
   }
   
+  componentDidMount() {
+    this.updateDims();
+    window.addEventListener('resize', this.updateDims)
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.updateDims)
+  }
+
+  updateDims() {
+    const scale_horz_border = .55
+    const scale_vert_border = .8
+    if (window.innerHeight * 1.3 < window.innerWidth ) {
+        this.setState({ height: window.innerHeight * scale_vert_border, width: "auto" })
+    } else {
+        this.setState({ height: "auto", width: window.innerWidth * scale_horz_border })
+    }
+  }
+
   choosePhotos = (urls, res) => {
     var chosen_photos = urls.map( imgurl => {
       return imgurl + res;
@@ -27,8 +49,9 @@ class PhotoShow extends Component{
       }
 
     var photo_cards = chosen_photos.map( url => {
+      const height = this.state.height
+      const width = this.state.width
       return(
-        <ListGroupItem>
           <Row>
             <Col>
               <br />
@@ -38,7 +61,7 @@ class PhotoShow extends Component{
               <br />
               <br />
               <br />
-              <img width="80%" height="auto" src={url} alt={url}/>
+              <img width={width} height={height} src={url} alt={url}/>
               <br />
               <br />
               <br />
@@ -48,7 +71,6 @@ class PhotoShow extends Component{
               <br />
             </Col>
           </Row>
-        </ListGroupItem>
       )
     })
 

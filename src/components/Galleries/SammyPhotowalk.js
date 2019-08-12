@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import PhotoShow from '../PhotoShow/PhotoShow'
-class China extends Component {
+class SammyPhotowalk extends Component {
   render() {
     return (
       <Fragment>
-          <PhotoShow title="China" />
+          <PhotoShow title="SammyPhotowalk" />
       </Fragment>
     )
   }
 }
 
-export default China;
+export default SammyPhotowalk;

@@ -8,7 +8,12 @@ import Science from './components/Science/Science';
 // galleries
 import Easteregg from './components/Easteregg/Easteregg';
 import Brad from './components/Galleries/Brad';
-import China from './components/Galleries/China';
+import HongKong from './components/Galleries/HongKong';
+import Portraits from './components/Galleries/Portraits';
+import SFArchitecture from './components/Galleries/SFArchitecture';
+import SammyPhotowalk from './components/Galleries/SammyPhotowalk';
+
+
 
 class App extends Component {
   render() {
@@ -20,8 +25,12 @@ class App extends Component {
           <Route exact path="/art" component={Art} />
           <Route exact path="/science" component={Science} />
           <Route exact path="/easteregg" component={Easteregg} />
-          <Route exact path="/brad" component={Brad} />
-          <Route exact path="/china" component={China} />
+
+          {/* retired_gallery */} <Route exact path="/brad" component={Brad} /> 
+          <Route exact path="/hongkong" component={HongKong} /> 
+          <Route exact path="/portraits" component={Portraits} />
+          <Route exact path="/sfarchitecture" component={SFArchitecture} />
+          <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
         </div>
       </Router>
     );

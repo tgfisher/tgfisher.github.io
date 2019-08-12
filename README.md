@@ -22,11 +22,23 @@ Built with React, React Router, and Bootstrap (via [reactstrap](https://reactstr
 
 ```bash
 🐒  yarn upgrade --latest 
+🐒  yarn install # might be required after upgrade
 ```
+
 
 ### Deployment
 
 ```bash
 🐒  git checkout source 
 🐒  yarn deploy
+```
+
+### Scrape Google Photos
+
+I am using the scrape-google-photos tool to scrape albums from google photos.
+
+https://github.com/alexcrist/scrape-google-photos.git
+
+```bash
+scrape-google-photos my_album_url --write --file=my_file_name
 ```
