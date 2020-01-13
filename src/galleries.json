@@ -1,6 +1,40 @@
 {
     "galleries": [
         {
+            "date": "2020-01-02",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "XT-3"
+            },
+            "name": "TwentyTwenty",
+            "link": "/twentytwenty",
+            "thumbnail_idx": 0,
+            "comments": "Photos of the new year",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/M3oBfwrabEPwPO_J4bBb99RkK5-YkYIyE_6lor93funL__3_AYw-2Uku6KDoxGU8oX1LD_UwpuF9-DXF5s6xBKRRfsTLfTna0SvnVNjfUZc-QT94lPmnwNZ7iYCaFqocVwtG8_J9Sw",
+                  "https://lh3.googleusercontent.com/WOWbs57jjxo69WKdpXEUwRnCclz0Hnxo3hiyVfQMme8B-rVIZoh4rtoAmUmyAyz6l9FCQMoiGeHp9sGSHLAd4O8nsFV0VG3o6SRatJikznmfey6h3emfnEXhMAyjXtZYj7t8or-WSg",
+                  "https://lh3.googleusercontent.com/yi_yBNTkAK5OnXkNtf7KkUOtRdylb6gL3lwFnDzIJssi8C7qfwqi-mt_2F3p5B40tT0ZU-yVOkeZx69SB7jOmb61iZoIwV95K_MPeP1PVEUQ3QfRcOaCdrDNwWcWYc3_-mOveJsRAQ",
+                  "https://lh3.googleusercontent.com/eomG7YYdyCwLV5zocpERvbe3AGHhpbK0n_t1jJhM5wtPZ7CAJR-MhKhY8pYiMot1p04lrD3Hplo4AZsFPw0G83GGn1NngnReIVE9ZMkcBPYuBxCqf-v5RH4IgBYMKKlUU9Uhj3z4Lg",
+                  "https://lh3.googleusercontent.com/jHSA9Z5YHCzFhDRfIJY1nvn4mg0DwC6rYsChaHMyp11H4B8kWSLxW2SoMvGrqa2C0NKBRRNn45qt0QcN-f2YTRHZ9PO6fbRGIReyvIqFhvLZUwWDAfozbtqqBvOrBz3Li_-hvtXX8w",
+                  "https://lh3.googleusercontent.com/CDcgb_WTc0w4ugPaESWC_4_HRXHsQk-W2gYD15zoByL1ZT0SQEjb6Sp9FrqhudsIyWnWbDQFYtncK09dimMfR3m8NYDt1Kbhx-Jg1hNOztk2XZXxgJwoDRsuPZ6Eq-brRYn2Vjuzpw",
+                  "https://lh3.googleusercontent.com/caDrXJZaAvCiLWmyuDIKlYYnHjOKOsihAHhNoS1WpkoOfMhJANGLgdjm3VMLdFQ3xg08SzxmjswaKSmGctaMQ3N2lQqJ2UE-mL2-BgpZel9uHi05YXqw7-2JurMr5hFhySy0DGxH1A",
+                  "https://lh3.googleusercontent.com/LJUxm1JWC53Y-TIdIJEP2TasMt28SkB5r_PBkEAAeDS6zmrPVsTh7fUM6KyfgYlpGL-FLMtYhQIKsi-MCnhUoR2BJKAQTqzJOAoE0ZNiK9re11rwc4n8o1McbnYCPM9fdSxaCutxGA",
+                  "https://lh3.googleusercontent.com/G-P_l_4YFUH-_kCcK2rVwlYzjy3heowOcDHym4FMlvm-C_YgXJgRqjeSOyVbk_EtUmeIOAkC1yMCr8ITHzv7L8lKnS_cFcJwue-AgOKM65ZzBjEc_m3SWPoX0viMGj5q3fcJMfxpaw",
+                  "https://lh3.googleusercontent.com/I2SWUakvylobHD_QvtRtqvEN72tV33Ic_QMiH5IqfQ_NA4QfzdxbsiCw_-8QRotXxOigt0B2ikLTDgbPy8CHC4F9D2-0HkB2wKMbOE1RGCveq19NVbFf2Jl2Hrf77UcXAlQacXE9mw",
+                  "https://lh3.googleusercontent.com/czLvFk0CqHEEHu3EI0-Pqpdh793wilOd0nbWpPyadbValHN5f03fegPMZ7DkISh3IATmI4oJTLFRpr3o8ilh5T-uvaDTinGCqOObCT40Hf8Fc_bcDHGBiUCUkxIphYnTKDMOVmu44Q",
+                  "https://lh3.googleusercontent.com/xNVwSuF2sp5gulRXt6IwLCzzuTjqsca_viQKQX8UPnC-gUyThl-FaJBVURnCqmSqLTJ-JzqpzcUegJ13UYjycCqNBU-TqLFr-MipQlMmgf9SJXGXuTKwyf6F5ksymw-zmHwb_sRJZA",
+                  "https://lh3.googleusercontent.com/SvOlxay0DrwCuTBg7lFLe6zcEbEYg-7Rp4sJdvPNx6QBrEFOwTpzVIHhPjPZ7072Q8brs6jny-OpJmNq6HeB2tXYVSqCYURaSuD_86-uKOXmL4HkOhgUulZw-T4241giDho1_EYjRA",
+                  "https://lh3.googleusercontent.com/UHPBCNMJREKx9JPnGbHocUhrDSKN2sY3yRu6HrFP_DVoPX2RT0cxz5DZeT8qcW0evVLt_bjhmQj2cSOV5rMTiuZvG1tjf61lrnTVKrNKWh6kI5_E9xS_agvZ8SaZoae67kmTZ65x7w",
+                  "https://lh3.googleusercontent.com/Ih8DCuwoBg0RSYNPibnQL-RVMzgzITjGC4oDPXgwsf_iqcTDgM4ZCUHtZqCu0x8VjGe1gaeMhHap9YjEK-6jSXwLzR_KLwptmJzyflMtf_oBKe8LSANrIe3IIPfKK_I2UHyiW8BaTg",
+                  "https://lh3.googleusercontent.com/Q-DQDEezEtyh8LRc_J7aP1PysY5Do_btBeqQffnrjfVF8WwclgqY3TSbTQQeVWsnLG9O69V0gwgYJpTX63rn1mjZowGU0StbLxxF9LK3deQZYgbcWM3hLIAUk7FZ2kdpej3LMfMyIA",
+                  "https://lh3.googleusercontent.com/ZM3gHUhh8iiHVfJc6LZrBUHejA_kKpWrtNqZbbpEPZWbHp1dqmI-yGP9TBlc_dkk8wcXt37TTZ5n8vNNZUeMw9yHTLs5pIB4SuIyOSaPb8p1gxxIwygPTzMD5nDuTIEHAbgrlZK8BQ"
+                ],
+            "resolution": "=w5000-h5000"
+        },
+        {
             "date": "2018-08-30",
             "medium": {
                    "type": "digital",
@@ -27,7 +61,7 @@
                   "https://lh3.googleusercontent.com/Il5HAYbLdt0gj7EfBEuLh7E7rKafO0XFV3p73f3QdyM_gs814lXhBelgA_CBvaxICXF8C8PL3lWUtzjutOEn4t0XCznKe1E8tn6H4rSdQdHdLo_f3MbA0ZWCADUGCYYFk-n8W8oTbQ",
                   "https://lh3.googleusercontent.com/sjxoMKu5gxwlJ8uecSO4mKWnVpRRjFsXmWQin8KsLPEAtCL53S0WYeI4cDC25vRDvm2DUI8pRn8KqfJtvrKlq8sQ2M3p2R16Ps8VtDLGztTBc3zQYKEoepozo3vKVU9hQwWpPgknFA",
                   "https://lh3.googleusercontent.com/xkzHkiQuHH0N9A-kuzAKK3na8oWthghNeCFp3mb_st2yeNgJ7YmR9nFzl2NC1_bibq9xaHImF5qx2dUAZetN-701gZb1gA8ONGzk9H_FnVGrc3YxN5MhYUw3u91Rc57slnuBBiR5tw"
-],
+                ],
             "resolution": "=w5000-h5000"
         },
         {
@@ -69,20 +103,21 @@
             "comments": "Portrait work of friends and family.",
             "urls":
                 [
-                  "https://lh3.googleusercontent.com/fo7LQ0fnLn5IUaqxfVCGRYQpMhsP4QzHHlZKvlw5RA9HQeS-zEafzpCK03ywl1YyU-ckAYwM4x7vrY-_9GLFWIKsP6SQbjcLi0LMcAgKADRiR2BYMkKjJm0sGorYkQdxdV256aeiQw",
-                  "https://lh3.googleusercontent.com/Jw0njTl_MVNvNygwErwfPyAdQurGQiQBijshs23znUyC2LRx175pczZtzqta5PT3meUIj8cq8vy2qIGi40VS4XUEZ3BsvaSvQmotlrPL3FvyKqvbte8DT4yth6kTnfDB3oLNcMQyLw",
-                  "https://lh3.googleusercontent.com/DWNvQBcdJ5vnpKLQ5cfFxhGyzn-LDPRVHWj4H8bZEfbNfJyeMtnlk3KwyIgR9oZuKqq4IhQ7OnfwPfRpPOCwBrw-urwzxYIkVprv-YTFNKoNyXWZdjRySrIJ3w5jDQr4mUP-DCgDfA",
-                  "https://lh3.googleusercontent.com/oFJou6rIB-6C9tpUVs978K_FMysGDawftV_QpCdmcn-wEoUAn1EDBh68J_QEQ9MWOs9B-6jrs-CF3BWkdUunlNOIUaQo4wuQsFEadZnBtwIYu8SRUg146SOOmx4miRIkn79tHT2egQ",
-                  "https://lh3.googleusercontent.com/x1q-y-_QCguKpMjp9PJ6ha_20cv2-z6uJtZw1CK_aJJOq0SAwsRTSrzuPE6GxTmSakuwXjrLmK7QVjPnbY760sCPu-KucUT-t54k8LPgM-NkHm_VyXZ5UOWaT0u54zYk5e2UZj3R_A",
-                  "https://lh3.googleusercontent.com/Ym9DGhSGo3HTxB7yX_iWqR8bGXzlC2cXVJvX3DVEzUkRbTeCAWv0gG5gmkTMiOgsrNmmJmMVSiEBm8BQ2VQWiOokmYXATxxzagpoS-92G-CcnSgTHMvG0fN_ztt2JcY_-zTqBZEEpA",
-                  "https://lh3.googleusercontent.com/-DXwoam1zFhwUgQ_CYU-aEZaOHGFTcRmBe-2a1Q5mg7ZdtUB47IoYLJkFaPzxFcvRMowWeaJqxnQJ4819IdH287gLQOwlUuX72Kj5oM149EMQ4OJBBs8TfrmYDLgG47Zxg8xYZSdgg",
-                  "https://lh3.googleusercontent.com/GOhXmHqhuj4qc84H8YYjraSP3ZGbKTt_CyH-B6FrRJJCkT_J4x_cCLefj78jL1FcQRJdYH6YIm_AzTf4Eg1wGqlVwqAwGWV_iW1tBdnRjqDR8llFvkxp6OFaoilaw2d7PV8_nUCO3w",
-                  "https://lh3.googleusercontent.com/QGr072_4Em8-PPGcWVl8tWGlVehrhCWWHapg7ktEDZOgvVJHGr72XG5GeDd68UmSH1vmflqKs__rPsNeVmV373iwgGe711z4rfizXRBdaY6AQa0OOE7vB4WCQoad-DmdwiKSo3yXTw",
-                  "https://lh3.googleusercontent.com/YDA9QX-4Ak2k6xTxNb_ts9dqLIBZCeMZ6EeNKZl2z3sJWoibFOOIn_5zI03lChin43zAJoSLGttzCN7daX3MVozgZ_R9GOtaw0Uwjjx0p-dCRFsOLFxpBZ8-GzZVBAjz3hNgjL8_Fg",
-                  "https://lh3.googleusercontent.com/0n4Xngksgro4NkcCpZbefhKQydCH8y3twUKuu20Ap7KlvqnPnT1Wmr2WvZ9TqBTYCxBc_kA9U6UFfsMZOxg-ElqBs4mVg4-1RWfQGbYCn-voO1fjmeJIvfFxQeqZyvXulu-My_cgww",
-                  "https://lh3.googleusercontent.com/R6TF6nsSKL53dQtUdQMcE4gaRyN_XtVZXcTuIANwGbTl3VR5ZPAQtOtcVYmlpa-CBGj6WbtAi-YVMQeum-omcNXv2ORy9un_zsXGoKPIljNXqOdShspHje6HxDf_TqKNOiNV3oeZuw",
-                  "https://lh3.googleusercontent.com/13bY-P7FYgnH1U9TCgPjLYG-PHoD4437WXU5bV5bOOdNaf1_vm5tjq4mglvhkE5i3LzLb-mNpnlCobFSXHN_vv1n6KgPawtfsCqJIx7CBTpGMmULKA7ynw2C4cMvRXKLsDHu0NGk5w"
-],
+                 "https://lh3.googleusercontent.com/fo7LQ0fnLn5IUaqxfVCGRYQpMhsP4QzHHlZKvlw5RA9HQeS-zEafzpCK03ywl1YyU-ckAYwM4x7vrY-_9GLFWIKsP6SQbjcLi0LMcAgKADRiR2BYMkKjJm0sGorYkQdxdV256aeiQw",
+                 "https://lh3.googleusercontent.com/Jw0njTl_MVNvNygwErwfPyAdQurGQiQBijshs23znUyC2LRx175pczZtzqta5PT3meUIj8cq8vy2qIGi40VS4XUEZ3BsvaSvQmotlrPL3FvyKqvbte8DT4yth6kTnfDB3oLNcMQyLw",
+                 "https://lh3.googleusercontent.com/I9rFG7kQ46mWdyh9br1pdT-0a0ZU2fJc751vyNfj5w5qCvDoJhuq4V-BndDppRgSLCOLC8L-BHOfXcsC7VnlL-2smSjYqPvOd6JwHjl7M8IL3JoOSKBDc6GmXv1B-ZWQdSONUDMYkg",
+                 "https://lh3.googleusercontent.com/oFJou6rIB-6C9tpUVs978K_FMysGDawftV_QpCdmcn-wEoUAn1EDBh68J_QEQ9MWOs9B-6jrs-CF3BWkdUunlNOIUaQo4wuQsFEadZnBtwIYu8SRUg146SOOmx4miRIkn79tHT2egQ",
+                 "https://lh3.googleusercontent.com/x1q-y-_QCguKpMjp9PJ6ha_20cv2-z6uJtZw1CK_aJJOq0SAwsRTSrzuPE6GxTmSakuwXjrLmK7QVjPnbY760sCPu-KucUT-t54k8LPgM-NkHm_VyXZ5UOWaT0u54zYk5e2UZj3R_A",
+                 "https://lh3.googleusercontent.com/Ym9DGhSGo3HTxB7yX_iWqR8bGXzlC2cXVJvX3DVEzUkRbTeCAWv0gG5gmkTMiOgsrNmmJmMVSiEBm8BQ2VQWiOokmYXATxxzagpoS-92G-CcnSgTHMvG0fN_ztt2JcY_-zTqBZEEpA",
+                 "https://lh3.googleusercontent.com/-DXwoam1zFhwUgQ_CYU-aEZaOHGFTcRmBe-2a1Q5mg7ZdtUB47IoYLJkFaPzxFcvRMowWeaJqxnQJ4819IdH287gLQOwlUuX72Kj5oM149EMQ4OJBBs8TfrmYDLgG47Zxg8xYZSdgg",
+                 "https://lh3.googleusercontent.com/GOhXmHqhuj4qc84H8YYjraSP3ZGbKTt_CyH-B6FrRJJCkT_J4x_cCLefj78jL1FcQRJdYH6YIm_AzTf4Eg1wGqlVwqAwGWV_iW1tBdnRjqDR8llFvkxp6OFaoilaw2d7PV8_nUCO3w",
+                 "https://lh3.googleusercontent.com/QGr072_4Em8-PPGcWVl8tWGlVehrhCWWHapg7ktEDZOgvVJHGr72XG5GeDd68UmSH1vmflqKs__rPsNeVmV373iwgGe711z4rfizXRBdaY6AQa0OOE7vB4WCQoad-DmdwiKSo3yXTw",
+                 "https://lh3.googleusercontent.com/YDA9QX-4Ak2k6xTxNb_ts9dqLIBZCeMZ6EeNKZl2z3sJWoibFOOIn_5zI03lChin43zAJoSLGttzCN7daX3MVozgZ_R9GOtaw0Uwjjx0p-dCRFsOLFxpBZ8-GzZVBAjz3hNgjL8_Fg",
+                 "https://lh3.googleusercontent.com/0n4Xngksgro4NkcCpZbefhKQydCH8y3twUKuu20Ap7KlvqnPnT1Wmr2WvZ9TqBTYCxBc_kA9U6UFfsMZOxg-ElqBs4mVg4-1RWfQGbYCn-voO1fjmeJIvfFxQeqZyvXulu-My_cgww",
+                 "https://lh3.googleusercontent.com/R6TF6nsSKL53dQtUdQMcE4gaRyN_XtVZXcTuIANwGbTl3VR5ZPAQtOtcVYmlpa-CBGj6WbtAi-YVMQeum-omcNXv2ORy9un_zsXGoKPIljNXqOdShspHje6HxDf_TqKNOiNV3oeZuw",
+                 "https://lh3.googleusercontent.com/13bY-P7FYgnH1U9TCgPjLYG-PHoD4437WXU5bV5bOOdNaf1_vm5tjq4mglvhkE5i3LzLb-mNpnlCobFSXHN_vv1n6KgPawtfsCqJIx7CBTpGMmULKA7ynw2C4cMvRXKLsDHu0NGk5w",
+                 "https://lh3.googleusercontent.com/VOdcaPKQunx9IrnDOIWM8VzsrCYrAyc7xIy8sLlP1ScOfasVJzWK81ZlXzX0AD4DxawG88dgDLKHmQ5ciWN7DTkFuv-u47tEA-4N9MuAGBceLpEZD2fmf2uCpMB_FNjxaE1vVW0i8Q"
+                ],
             "resolution": "=w5000-h5000"
         },
         {

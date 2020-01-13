@@ -12,6 +12,7 @@ import HongKong from './components/Galleries/HongKong';
 import Portraits from './components/Galleries/Portraits';
 import SFArchitecture from './components/Galleries/SFArchitecture';
 import SammyPhotowalk from './components/Galleries/SammyPhotowalk';
+import TwentyTwenty from './components/Galleries/TwentyTwenty';
 
 
 
@@ -31,6 +32,7 @@ class App extends Component {
           <Route exact path="/portraits" component={Portraits} />
           <Route exact path="/sfarchitecture" component={SFArchitecture} />
           <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
+          <Route exact path="/twentytwenty" component={TwentyTwenty} />
         </div>
       </Router>
     );
