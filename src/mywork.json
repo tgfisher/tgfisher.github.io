@@ -1,6 +1,35 @@
 { 
     "pubs": [
         {
+            "date": "2020-01-22",
+            "details": 
+                {
+                    "format": "paper",
+                    "publisher": "Neuron",
+                    "specifics": "",
+                    "url": "https://www.cell.com/neuron/pdf/S0896-6273(19)30894-3.pdf"
+                },
+            "authors": 
+                [
+                    "Williams A.H.",
+                    "Poole B.",
+                    "Maheswaranathan N.",
+                    "Dhawale A.K.",
+                    "Fisher T.G.",
+                    "Wilson C.D.",
+                    "Brann D.H.",
+                    "Trautmann E.M.",
+                    "Ryu S.",
+                    "Shusterman R.",
+                    "Rinberg D.",
+                    "Ölvekzky B.",
+                    "Shenoy K.V.",
+                    "Ganguli S."
+                ],
+            "title": "Discovering Precise Temporal Patterns in Large-Scale Neural Recordings through Robust and Interpretable Time Warping",
+            "abstract": "Though the temporal precision of neural computation has been studied intensively, a data-driven determination of this precision remains a fundamental challenge. Reproducible spike time patterns may be obscured on single trials by uncontrolled temporal variability in behavior and cognition, or may not even be time locked to measurable signatures in either behavior or local field potentials (LFP). To overcome these challenges, we describe a general-purpose time warping framework that reveals precise spike-time patterns in an unsupervised manner, even when spiking is decoupled from behavior or is temporally stretched across single trials. We demonstrate this method across diverse systems: cued reaching in nonhuman primates, motor sequence production in rats, and olfaction in mice. This approach flexibly uncovers diverse dynamical firing patterns, including pulsatile responses to behavioral events, LFP-aligned oscillatory spiking, and even unanticipated patterns, like 7 Hz oscillations in rat motor cortex that are not time-locked to measured behaviors or LFP."
+        },
+        {
             "date": "2019-06-06",
             "details": 
                 {
