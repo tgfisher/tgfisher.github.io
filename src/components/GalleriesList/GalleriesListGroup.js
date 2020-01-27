@@ -60,8 +60,6 @@ class GalleriesListGroup extends Component {
                     <span>
                         <br />
                         <hr />
-                        <h6> Notes </h6>
-                        <br />
                         <p>{gallery.comments}</p>
                     </span>
                 )
