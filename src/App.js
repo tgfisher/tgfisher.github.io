@@ -14,6 +14,8 @@ import SFArchitecture from './components/Galleries/SFArchitecture';
 import SammyPhotowalk from './components/Galleries/SammyPhotowalk';
 import TwentyTwenty from './components/Galleries/TwentyTwenty';
 import TianTan from './components/Galleries/TianTan';
+import ChinaMotion from './components/Galleries/ChinaMotion';
+import NightWalk from './components/Galleries/NightWalk';
 
 
 
@@ -27,14 +29,15 @@ class App extends Component {
           <Route exact path="/art" component={Art} />
           <Route exact path="/science" component={Science} />
           <Route exact path="/easteregg" component={Easteregg} />
-
           {/* retired_gallery */} <Route exact path="/brad" component={Brad} /> 
           <Route exact path="/hongkong" component={HongKong} /> 
           <Route exact path="/portraits" component={Portraits} />
           <Route exact path="/sfarchitecture" component={SFArchitecture} />
-          <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
+          {/* retired_gallery */} <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
           <Route exact path="/twentytwenty" component={TwentyTwenty} />
           <Route exact path="/tiantan" component={TianTan} />
+          <Route exact path="/chinamotion" component={ChinaMotion} />
+          <Route exact path="/nightwalk" component={NightWalk} />
         </div>
       </Router>
     );
