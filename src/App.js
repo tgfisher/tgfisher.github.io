@@ -13,6 +13,7 @@ import Portraits from './components/Galleries/Portraits';
 import SFArchitecture from './components/Galleries/SFArchitecture';
 import SammyPhotowalk from './components/Galleries/SammyPhotowalk';
 import TwentyTwenty from './components/Galleries/TwentyTwenty';
+import TianTan from './components/Galleries/TianTan';
 
 
 
@@ -33,6 +34,7 @@ class App extends Component {
           <Route exact path="/sfarchitecture" component={SFArchitecture} />
           <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
           <Route exact path="/twentytwenty" component={TwentyTwenty} />
+          <Route exact path="/tiantan" component={TianTan} />
         </div>
       </Router>
     );
