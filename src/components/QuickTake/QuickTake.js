@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'reactstrap';
 import { Link } from 'react-router-dom';
 import { FaFlask, FaCameraRetro } from 'react-icons/fa'
 import './QuickTake.css';
-import tucker_photo from './DSCF9079.jpg';
+import tucker_photo from './lab_headshot.jpg';
 import datura_photo from './Datura_RIP.jpg';
 
 
