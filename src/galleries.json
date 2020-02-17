@@ -1,6 +1,33 @@
 {
     "galleries": [
         {
+            "date": "2020-02-16",
+            "medium": {
+                   "type": "film",
+                   "format": "35mm",
+                   "body": "Olympus",
+                   "model": "XA"
+            },
+            "name": "SanFranColor",
+            "link": "/sanfrancolor",
+            "thumbnail_idx": 0,
+            "comments": "streets of sf",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/mNa2Jr3cLWS5nhGmCWxyiljXTqpkQKPSb8tB2CvnQAYO9pP0bC0edoQUxBiqpkakPQE5fPAra3lE9zORECHLNMOXTGQ9qeUsNtbsONa44Md5s-7hDJZro1-hb5BFH26_lL2n2PvksA",
+                  "https://lh3.googleusercontent.com/7kjvnQxSsqle4e17pb25qiIw0rWiJU2YydziVRlD8Lr5MhG--ujcWJC5nZggB2tcIotI8edZjW6KTxCRVEgquKlhqCKnRuVmpPeiFV69dBT15NQ8xNJQN4M1y3nZbzv1u7P6z-Pc2A",
+                  "https://lh3.googleusercontent.com/c6VF1apXshkt0AtF_YJtaQNIDjti3u8H9XW3GI4hjVWijM0IJkLg1peHhnwSrkSk8yCVTtWbsRFBaeOIAc9XoFSl3E5_8cqRSeBpCCa2pSy7HWfrzUoWwRldoXogDsZsRj9gEv7S3A",
+                  "https://lh3.googleusercontent.com/P2JHECs-OmS8G33-_u5-h1tT4efFmkmrqradZCHKMr_x1LujBzElEyKMcNSX_nvGLZzhFcFmWvzz9JLG4iHjCI68NPaZHSnHHCAIEDS_IASWvR0JVshj1e293oMLESo_ljKZ4svKfQ",
+                  "https://lh3.googleusercontent.com/VclYQgQdeM6hJiZu4CrFAl7thrVjLlYBqZ51anQpFu6o8DzlmNKds66mHtIoXNDc1f2bf8JnX2WJ7sJb0h1rOB04C5CXeeEPedcTR41Dx3l1pJCDZlqAODKxTAzxmw8Y3MrO_jKY9A",
+                  "https://lh3.googleusercontent.com/ryfUeIO35m7bwEVAQbo-X-o6plySmH47jGsX9z1a2VKPf0_eDa0jP73ioLSwpIYPL5sn7hD__KXUM4LMA6K6JkhQT9qd9DsaS8AtAWm-WpRIeM1ZmKWI4X3HuHLv6teKtP0B_KsaeQ",
+                  "https://lh3.googleusercontent.com/2aPzGCeP41ujxjDhLA6UivpdjV_KwYTm9wSZsguUy2RBzpMpcfuqpqiuw2BOkPO4feRSVmpSRl_DzoV89sE_Es5JP3mnqSKNtDB4D0LuSpcOspG2TbdEVJhG1HmK6byxexv2c1ULiw",
+                  "https://lh3.googleusercontent.com/ODH-4dQTpZqWWwF6tiiCXMl94E5DDFxieXmHcxkypU375-8Xm2nONUUoMMiH2c-Gthz__1fUKkfV1QJiV-v-F8f0W_-r3_OsSkoDURVgBoVlTOAB3tnjUDJlFJr8rEobZuuehy5WGQ",
+                  "https://lh3.googleusercontent.com/P8kgKlEP6yr97WxX1Cd264PXm87Sr7H1jGrDAibu6O0xBmUFv90ZT5ddwiOnoVdnt_tLXfwx9KRnC0qDvnPZK25qHjDXj9LNuVJC6E7VqSh_txrS1JcysRQnvqdG0VOdvE3FtjadYQ",
+                  "https://lh3.googleusercontent.com/PN1hoFB1_4uFpltpprnbeQBjevL7r8LwxWKwRAZp2oy6X-t1oPfvlhQPALa1XJ2yFrvyU8zkTRtvxYPUFhw0MyA16eLEDP8_dOdrRw34dlHeesubrVuIzUL7vbkglVxIsGwbrgxleQ"
+                ],
+            "resolution": "=w5000-h5000"
+        },
+        {
             "date": "2020-01-02",
             "medium": {
                    "type": "digital",

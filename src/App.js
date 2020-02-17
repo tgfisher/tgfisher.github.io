@@ -16,6 +16,7 @@ import TwentyTwenty from './components/Galleries/TwentyTwenty';
 import TianTan from './components/Galleries/TianTan';
 import ChinaMotion from './components/Galleries/ChinaMotion';
 import NightWalk from './components/Galleries/NightWalk';
+import SanFranColor from './components/Galleries/SanFranColor';
 
 
 
@@ -38,6 +39,7 @@ class App extends Component {
           <Route exact path="/tiantan" component={TianTan} />
           <Route exact path="/chinamotion" component={ChinaMotion} />
           <Route exact path="/nightwalk" component={NightWalk} />
+          <Route exact path="/sanfrancolor" component={SanFranColor} />
         </div>
       </Router>
     );
