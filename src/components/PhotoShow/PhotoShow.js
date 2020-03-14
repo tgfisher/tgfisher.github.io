@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import { ListGroup, Row, Col } from 'reactstrap';
-import gallery_data from '../../galleries.json'
 
 class PhotoShow extends Component{
   constructor(props) {
@@ -8,7 +7,7 @@ class PhotoShow extends Component{
     this.state={
       height: 0,
       width: 0,
-      galleries: gallery_data.galleries,
+      galleries: props.gallery_list,
     }
     this.updateDims = this.updateDims.bind(this);
   }

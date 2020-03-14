@@ -1,17 +1,14 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
-
 import moment from 'moment';
 
-import gallery_data from '../../galleries.json'; // in future, load from S3 or similar
 import GalleriesListGroup from './GalleriesListGroup.js';
 
 class GalleriesList extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      galleries: gallery_data.galleries,
-      max_galleries: 5,
+      galleries: props.galleries,
     }
   }
 

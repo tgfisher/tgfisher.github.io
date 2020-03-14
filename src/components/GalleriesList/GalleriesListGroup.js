@@ -6,14 +6,12 @@ import { Button,
 import { Link } from 'react-router-dom';
 
 import { FaCameraRetro } from 'react-icons/fa'
-import gallery_info from '../../galleries.json';
 import './GalleriesListGroup.css'
 
 class GalleriesListGroup extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            galleries: gallery_info.galleries,
             max_galleries: 5,
         }
     }

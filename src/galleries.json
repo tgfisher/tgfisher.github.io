@@ -1,5 +1,5 @@
 {
-    "galleries": [
+    "living_galleries": [
         {
             "date": "2020-02-16",
             "medium": {
@@ -42,20 +42,17 @@
             "urls":
                 [
                   "https://lh3.googleusercontent.com/M3oBfwrabEPwPO_J4bBb99RkK5-YkYIyE_6lor93funL__3_AYw-2Uku6KDoxGU8oX1LD_UwpuF9-DXF5s6xBKRRfsTLfTna0SvnVNjfUZc-QT94lPmnwNZ7iYCaFqocVwtG8_J9Sw",
-                  "https://lh3.googleusercontent.com/WOWbs57jjxo69WKdpXEUwRnCclz0Hnxo3hiyVfQMme8B-rVIZoh4rtoAmUmyAyz6l9FCQMoiGeHp9sGSHLAd4O8nsFV0VG3o6SRatJikznmfey6h3emfnEXhMAyjXtZYj7t8or-WSg",
                   "https://lh3.googleusercontent.com/yi_yBNTkAK5OnXkNtf7KkUOtRdylb6gL3lwFnDzIJssi8C7qfwqi-mt_2F3p5B40tT0ZU-yVOkeZx69SB7jOmb61iZoIwV95K_MPeP1PVEUQ3QfRcOaCdrDNwWcWYc3_-mOveJsRAQ",
                   "https://lh3.googleusercontent.com/eomG7YYdyCwLV5zocpERvbe3AGHhpbK0n_t1jJhM5wtPZ7CAJR-MhKhY8pYiMot1p04lrD3Hplo4AZsFPw0G83GGn1NngnReIVE9ZMkcBPYuBxCqf-v5RH4IgBYMKKlUU9Uhj3z4Lg",
                   "https://lh3.googleusercontent.com/jHSA9Z5YHCzFhDRfIJY1nvn4mg0DwC6rYsChaHMyp11H4B8kWSLxW2SoMvGrqa2C0NKBRRNn45qt0QcN-f2YTRHZ9PO6fbRGIReyvIqFhvLZUwWDAfozbtqqBvOrBz3Li_-hvtXX8w",
                   "https://lh3.googleusercontent.com/CDcgb_WTc0w4ugPaESWC_4_HRXHsQk-W2gYD15zoByL1ZT0SQEjb6Sp9FrqhudsIyWnWbDQFYtncK09dimMfR3m8NYDt1Kbhx-Jg1hNOztk2XZXxgJwoDRsuPZ6Eq-brRYn2Vjuzpw",
                   "https://lh3.googleusercontent.com/caDrXJZaAvCiLWmyuDIKlYYnHjOKOsihAHhNoS1WpkoOfMhJANGLgdjm3VMLdFQ3xg08SzxmjswaKSmGctaMQ3N2lQqJ2UE-mL2-BgpZel9uHi05YXqw7-2JurMr5hFhySy0DGxH1A",
-                  "https://lh3.googleusercontent.com/LJUxm1JWC53Y-TIdIJEP2TasMt28SkB5r_PBkEAAeDS6zmrPVsTh7fUM6KyfgYlpGL-FLMtYhQIKsi-MCnhUoR2BJKAQTqzJOAoE0ZNiK9re11rwc4n8o1McbnYCPM9fdSxaCutxGA",
                   "https://lh3.googleusercontent.com/G-P_l_4YFUH-_kCcK2rVwlYzjy3heowOcDHym4FMlvm-C_YgXJgRqjeSOyVbk_EtUmeIOAkC1yMCr8ITHzv7L8lKnS_cFcJwue-AgOKM65ZzBjEc_m3SWPoX0viMGj5q3fcJMfxpaw",
                   "https://lh3.googleusercontent.com/I2SWUakvylobHD_QvtRtqvEN72tV33Ic_QMiH5IqfQ_NA4QfzdxbsiCw_-8QRotXxOigt0B2ikLTDgbPy8CHC4F9D2-0HkB2wKMbOE1RGCveq19NVbFf2Jl2Hrf77UcXAlQacXE9mw",
                   "https://lh3.googleusercontent.com/czLvFk0CqHEEHu3EI0-Pqpdh793wilOd0nbWpPyadbValHN5f03fegPMZ7DkISh3IATmI4oJTLFRpr3o8ilh5T-uvaDTinGCqOObCT40Hf8Fc_bcDHGBiUCUkxIphYnTKDMOVmu44Q",
                   "https://lh3.googleusercontent.com/xNVwSuF2sp5gulRXt6IwLCzzuTjqsca_viQKQX8UPnC-gUyThl-FaJBVURnCqmSqLTJ-JzqpzcUegJ13UYjycCqNBU-TqLFr-MipQlMmgf9SJXGXuTKwyf6F5ksymw-zmHwb_sRJZA",
                   "https://lh3.googleusercontent.com/SvOlxay0DrwCuTBg7lFLe6zcEbEYg-7Rp4sJdvPNx6QBrEFOwTpzVIHhPjPZ7072Q8brs6jny-OpJmNq6HeB2tXYVSqCYURaSuD_86-uKOXmL4HkOhgUulZw-T4241giDho1_EYjRA",
                   "https://lh3.googleusercontent.com/UHPBCNMJREKx9JPnGbHocUhrDSKN2sY3yRu6HrFP_DVoPX2RT0cxz5DZeT8qcW0evVLt_bjhmQj2cSOV5rMTiuZvG1tjf61lrnTVKrNKWh6kI5_E9xS_agvZ8SaZoae67kmTZ65x7w",
-                  "https://lh3.googleusercontent.com/Ih8DCuwoBg0RSYNPibnQL-RVMzgzITjGC4oDPXgwsf_iqcTDgM4ZCUHtZqCu0x8VjGe1gaeMhHap9YjEK-6jSXwLzR_KLwptmJzyflMtf_oBKe8LSANrIe3IIPfKK_I2UHyiW8BaTg",
                   "https://lh3.googleusercontent.com/Q-DQDEezEtyh8LRc_J7aP1PysY5Do_btBeqQffnrjfVF8WwclgqY3TSbTQQeVWsnLG9O69V0gwgYJpTX63rn1mjZowGU0StbLxxF9LK3deQZYgbcWM3hLIAUk7FZ2kdpej3LMfMyIA",
                   "https://lh3.googleusercontent.com/ZM3gHUhh8iiHVfJc6LZrBUHejA_kKpWrtNqZbbpEPZWbHp1dqmI-yGP9TBlc_dkk8wcXt37TTZ5n8vNNZUeMw9yHTLs5pIB4SuIyOSaPb8p1gxxIwygPTzMD5nDuTIEHAbgrlZK8BQ"
                 ],
@@ -265,7 +262,7 @@
                    "type": "digital",
                    "format": "APS-C",
                    "body": "Fujifilm",
-                   "model": "XT-3"
+                   "model": "XT-1/XT-3"
             },
             "name": "Brad",
             "link": "/Brad",

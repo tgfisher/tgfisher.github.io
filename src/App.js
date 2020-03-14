@@ -30,16 +30,17 @@ class App extends Component {
           <Route exact path="/art" component={Art} />
           <Route exact path="/science" component={Science} />
           <Route exact path="/easteregg" component={Easteregg} />
-          {/* retired_gallery */} <Route exact path="/brad" component={Brad} /> 
           <Route exact path="/hongkong" component={HongKong} /> 
           <Route exact path="/portraits" component={Portraits} />
           <Route exact path="/sfarchitecture" component={SFArchitecture} />
-          {/* retired_gallery */} <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
           <Route exact path="/twentytwenty" component={TwentyTwenty} />
           <Route exact path="/tiantan" component={TianTan} />
           <Route exact path="/chinamotion" component={ChinaMotion} />
           <Route exact path="/nightwalk" component={NightWalk} />
           <Route exact path="/sanfrancolor" component={SanFranColor} />
+          {/* ------------- retired galleries ------------- */}
+          <Route exact path="/brad" component={Brad} /> 
+          <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
         </div>
       </Router>
     );
