@@ -36,7 +36,7 @@ class QuickTake extends Component {
                                 <br />
                                 <h6 className="text-align"> I recently joined Lisa Giocomo's lab. We study navigation. Before this, I was lucky to work with Cliff D. Saron, W. Marty Usrey, Henry J. Alitto, and Krishna V. Shenoy.</h6>
                                 <br />
-                                <h7>(for the most part this is a place to share photography)</h7>
+                                <h7>Primarily, this is a place to share photographs.</h7>
                                 <br />
                             </div>
                         </Row>
