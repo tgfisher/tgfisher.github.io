@@ -19,7 +19,7 @@ class GalleriesListGroup extends Component {
     renderMedium = gallery => {
         const medium = gallery.medium;
         if (medium.type && medium.format && medium.body){
-            const kit = medium.body + ' ' + medium.model + ': ' + medium.format + ' ' + medium.type + ' camera' 
+            const kit = medium.body + ' ' + medium.model + ': ' + medium.format + ' ' + medium.type
             const captureId =  gallery.name + gallery.date
 
             return (
