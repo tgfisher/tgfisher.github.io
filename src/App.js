@@ -17,6 +17,7 @@ import TianTan from './components/Galleries/TianTan';
 import ChinaMotion from './components/Galleries/ChinaMotion';
 import NightWalk from './components/Galleries/NightWalk';
 import SanFranColor from './components/Galleries/SanFranColor';
+import Farmwalk from './components/Galleries/Farmwalk';
 
 
 
@@ -38,6 +39,7 @@ class App extends Component {
           <Route exact path="/chinamotion" component={ChinaMotion} />
           <Route exact path="/nightwalk" component={NightWalk} />
           <Route exact path="/sanfrancolor" component={SanFranColor} />
+          <Route exact path="/dead_end" component={Farmwalk} /> 
           {/* ------------- retired galleries ------------- */}
           <Route exact path="/brad" component={Brad} /> 
           <Route exact path="/sammyphotowalk" component={SammyPhotowalk} />
