@@ -9,7 +9,7 @@ class Home extends Component {
           <QuickTake />
         <br />
       </Fragment>
-    )
+    );
   }
 }
 

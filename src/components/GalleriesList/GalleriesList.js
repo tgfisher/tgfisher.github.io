@@ -9,7 +9,7 @@ class GalleriesList extends Component {
     super(props);
     this.state = {
       galleries: props.galleries,
-    }
+    };
   }
 
   render_GalleryGroups() {
@@ -21,13 +21,13 @@ class GalleriesList extends Component {
       } else {
         return false;
       }
-    })
+    });
 
-    var film_galleries = this.state.galleries.filter((_, i) => is_film[i])
-    var digital_galleries = this.state.galleries.filter((_, i) => !is_film[i])
+    var film_galleries = this.state.galleries.filter((_, i) => is_film[i]);
+    var digital_galleries = this.state.galleries.filter((_, i) => !is_film[i]);
 
-    film_galleries.sort((a, b) => moment(a.date).diff(moment(b.date))) // ascending sort
-    digital_galleries.sort((a, b) => -moment(a.date).diff(moment(b.date)))
+    film_galleries.sort((a, b) => moment(a.date).diff(moment(b.date))); // ascending sort
+    digital_galleries.sort((a, b) => -moment(a.date).diff(moment(b.date)));
 
     return (
       <Container>
@@ -60,7 +60,7 @@ class GalleriesList extends Component {
           </Col>
         </Row>
       </Container>
-    )
+    );
   }
 
   render() {

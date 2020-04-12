@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import {Row, Col} from 'reactstrap'
-
+import { Row, Col } from 'reactstrap';
 import GalleriesList from '../GalleriesList/GalleriesList';
 import galleries from '../../galleries.json';
 

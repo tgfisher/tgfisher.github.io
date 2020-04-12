@@ -1,9 +1,9 @@
 import React, { Component }  from 'react';
 import { ListGroup, ListGroupItem} from 'reactstrap';
 import moment from 'moment';
-import { FaPaperPlane } from 'react-icons/fa'
+import { FaPaperPlane } from 'react-icons/fa';
 
-import mywork from '../../mywork.json' 
+import mywork from '../../mywork.json';
 
 class NeuroWorkListGroup extends Component {
     constructor(props) {
@@ -23,7 +23,7 @@ class NeuroWorkListGroup extends Component {
             //just me
             authors += pub.authors[0];
         } else if (pub.authors.length >= 2) {
-            authors += pub.authors.shift()
+            authors += pub.authors.shift();
             for (const curr_author of pub.authors) {
                 // add authors
                 authors += ', ' + curr_author;
@@ -33,7 +33,8 @@ class NeuroWorkListGroup extends Component {
         }
         //format details 
         if (pub.details.publisher && pub.details.specifics) {
-            details += ' ' + pub.details.publisher + ', ' + pub.details.specifics + ', '+ publication_year + '.';
+            details += ' ' + pub.details.publisher + ', ' + 
+                pub.details.specifics + ', '+ publication_year + '.';
         } else if (pub.details.publisher) {
             details += ' ' + pub.details.publisher + ', ' + publication_year + '.'
         } else {
@@ -46,7 +47,7 @@ class NeuroWorkListGroup extends Component {
                 {title}
                 {details}
             </div>
-        )
+        );
         return publication_wrapper;
     };
 
@@ -58,13 +59,13 @@ class NeuroWorkListGroup extends Component {
                         <FaPaperPlane/>
                     </a>
                 </span>
-            )
+            );
         }
     }
     
     renderPublications = pubs => {
         if (pubs.length === 0) {
-            return <div> working on it... </div>
+            return <div> working on it... </div>;
         } 
 
         var publication_render_wrapper = pubs.map( pub => {
@@ -76,14 +77,14 @@ class NeuroWorkListGroup extends Component {
                     </ListGroupItem>
                     <br />
                 </span>
-            )
-        })
+            );
+        });
         return publication_render_wrapper;
     };
 
     render() {
-        return <ListGroup>{this.renderPublications(this.props.pubs)}</ListGroup>
+        return <ListGroup>{this.renderPublications(this.props.pubs)}</ListGroup>;
     }
 }
 
-export default NeuroWorkListGroup
+export default NeuroWorkListGroup;

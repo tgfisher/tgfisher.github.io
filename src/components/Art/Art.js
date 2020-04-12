@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import GalleriesList from '../GalleriesList/GalleriesList';
-import galleries from '../../galleries.json'; // in the future, load from S3 or similar
+import galleries from '../../galleries.json';
 
 class Art extends Component {
   render() {

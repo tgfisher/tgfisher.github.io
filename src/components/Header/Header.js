@@ -19,12 +19,12 @@ class Header extends Component {
     this.toggle = this.toggle.bind(this);
     this.state = {
       isOpen: false,
-    }
+    };
   }
   toggle() {
     this.setState({
       isOpen: !this.state.isOpen,
-    })
+    });
   }
   render() {
     return (
@@ -48,7 +48,7 @@ class Header extends Component {
               </Collapse>
           </Navbar>
       </div>
-    )
+    );
   }
 }
 

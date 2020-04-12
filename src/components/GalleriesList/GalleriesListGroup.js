@@ -13,14 +13,15 @@ class GalleriesListGroup extends Component {
         super(props);
         this.state = {
             max_galleries: 5,
-        }
+        };
     }
 
     renderMedium = gallery => {
         const medium = gallery.medium;
         if (medium.type && medium.format && medium.body){
-            const kit = medium.body + ' ' + medium.model + ': ' + medium.format + ' ' + medium.type
-            const captureId =  gallery.name + gallery.date
+            const kit = medium.body + ' ' + medium.model + 
+                ': ' + medium.format + ' ' + medium.type;
+            const captureId =  gallery.name + gallery.date;
 
             return (
                 <span>
@@ -33,7 +34,7 @@ class GalleriesListGroup extends Component {
                         { kit }
                     </UncontrolledTooltip>
                 </span>
-            )
+            );
         }
     }
 
@@ -42,7 +43,7 @@ class GalleriesListGroup extends Component {
             <span>
                 <strong className="gallery-bold">{gallery.name}</strong>
             </span>
-        )
+        );
     }
 
     renderGalleries = galleries => {
@@ -60,7 +61,7 @@ class GalleriesListGroup extends Component {
                         <hr />
                         <p>{gallery.comments}</p>
                     </span>
-                )
+                );
             }
 
             return (
@@ -75,8 +76,8 @@ class GalleriesListGroup extends Component {
                     </ListGroupItem>
                     <br/>
                 </span>
-            )
-        })
+            );
+        });
         const n_galleries = gallery_render_list.length;
         let gallery_render_wrapper = <div>{gallery_render_list}</div>;
         if (n_galleries > this.state.max_galleries) {
@@ -84,7 +85,7 @@ class GalleriesListGroup extends Component {
             gallery_render_list = gallery_render_list.slice(
                 0,
                 this.state.max_galleries
-            )
+            );
             gallery_render_wrapper = (
                 <div>
                     {gallery_render_list}
@@ -101,7 +102,7 @@ class GalleriesListGroup extends Component {
                         See ({n_hidden} More Galleries){' '}
                     </Button>
                 </div>
-            )
+            );
         }
         return gallery_render_wrapper;
     }

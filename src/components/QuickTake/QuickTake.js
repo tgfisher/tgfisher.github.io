@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import { FaFlask, FaCameraRetro } from 'react-icons/fa'
+import { FaFlask, FaCameraRetro } from 'react-icons/fa';
 import './QuickTake.css';
+
 import tucker_photo from './lab_headshot.jpg';
 import datura_photo from './Datura_RIP.jpg';
 
@@ -68,7 +69,7 @@ class QuickTake extends Component {
                     </Col>
                 </Row>
             </Container>
-        )
+        );
     }
 }
 
