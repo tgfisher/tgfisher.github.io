@@ -67,7 +67,7 @@ class GalleriesListGroup extends Component {
             return (
                 <span key={gallery.name}>
                     <ListGroupItem>
-                        <Link to={`/gallery/${gallery.link}`}>
+                        <Link to={`/art/${gallery.link}`}>
                             {this.renderGalleryName(gallery)}
                         </Link>
                         {' '}
