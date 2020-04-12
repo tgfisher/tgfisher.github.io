@@ -3,6 +3,7 @@ import {Row, Col} from 'reactstrap'
 
 import GalleriesList from '../GalleriesList/GalleriesList';
 import galleries from '../../galleries.json';
+
 class Easteregg extends Component {
   render() {
     return (
