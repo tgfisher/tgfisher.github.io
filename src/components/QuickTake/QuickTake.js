@@ -31,12 +31,12 @@ class QuickTake extends Component {
                             <div>
                                 <h1 >Tucker Fisher</h1>
                                 <br />
-                                <h5 >Graduate Student in Neuroscience</h5>
+                                <h4 >Graduate Student in Neuroscience</h4>
                                 <br />
                                 <br />
-                                <h6 className="text-align"> I recently joined Lisa Giocomo's lab. We study navigation. Before this, I was lucky to work with Cliff D. Saron, W. Marty Usrey, Henry J. Alitto, and Krishna V. Shenoy.</h6>
+                                <h5 className="text-align"> I recently joined Lisa Giocomo's lab. We study navigation. Before this, I was lucky to work with Cliff D. Saron, W. Marty Usrey, Henry J. Alitto, and Krishna V. Shenoy.</h5>
                                 <br />
-                                <h7>Primarily, this is a place to share photographs.</h7>
+                                <h6>Primarily, this is a place to share photographs.</h6>
                                 <br />
                             </div>
                         </Row>

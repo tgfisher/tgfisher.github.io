@@ -9,7 +9,7 @@
                    "model": "XA"
             },
             "name": "SanFranColor",
-            "link": "/sanfrancolor",
+            "link": "sanfrancolor",
             "thumbnail_idx": 0,
             "comments": "streets of sf",
             "urls":
@@ -36,7 +36,7 @@
                    "model": "XT-3"
             },
             "name": "TwentyTwenty",
-            "link": "/twentytwenty",
+            "link": "twentytwenty",
             "thumbnail_idx": 0,
             "comments": "photos of the new year",
             "urls":
@@ -66,7 +66,7 @@
                    "model": "XT-3"
             },
             "name": "SFArchitecture",
-            "link": "/sfarchitecture",
+            "link": "sfarchitecture",
             "thumbnail_idx": 0,
             "comments": "looking up at the city",
             "urls":
@@ -98,7 +98,7 @@
                    "model": "XT-1"
             },
             "name": "NightWalk",
-            "link": "/nightwalk",
+            "link": "nightwalk",
             "thumbnail_idx": 0,
             "comments": "stanny at night",
             "urls":
@@ -124,7 +124,7 @@
                    "model": "XA"
             },
             "name": "HongKong",
-            "link": "/hongkong",
+            "link": "hongkong",
             "thumbnail_idx": 0,
             "comments": "35mm of Hong Kong",
             "urls":
@@ -149,7 +149,7 @@
                    "model": "XT-1"
             },
             "name": "ChinaMotion",
-            "link": "/chinamotion",
+            "link": "chinamotion",
             "thumbnail_idx": 0,
             "comments": "on the move in Hong Kong, Macau, and Yangshuo",
             "urls":
@@ -174,7 +174,7 @@
                    "model": "XT-1"
             },
             "name": "TianTan",
-            "link": "/tiantan",
+            "link": "tiantan",
             "thumbnail_idx": 0,
             "comments": "temple of heaven",
             "urls":
@@ -208,7 +208,7 @@
                    "model": "XT-1/XT-3"
             },
             "name": "Portraits",
-            "link": "/portraits",
+            "link": "portraits",
             "thumbnail_idx": 0,
             "comments": "friends and family",
             "urls":
@@ -239,9 +239,9 @@
                    "model": "X-100 V"
             },
             "name": "Farmwalk",
-            "link": "/farmwalk",
+            "link": "farmwalk",
             "thumbnail_idx": 0,
-            "comments": "-- coming soon --",
+            "comments": ">6ft on the farm.",
             "urls":
                 [
   "https://lh3.googleusercontent.com/LcdYhHJ9WpfrZP6UAQYPk7TwfBM9zPB-rgmAbdsPHqOdSgwRklFblynRiNhVvswlvcOMUM5NjqQvi1COthVi-UanpNvU-0kyQnwaOAnd1LkTshqhPK--sGLNnsMFaXlNSUz2-AmO-Q",
@@ -311,7 +311,7 @@
                    "model": "XT-3"
             },
             "name": "SammyPhotowalk",
-            "link": "/sammyphotowalk",
+            "link": "sammyphotowalk",
             "thumbnail_idx": 0,
             "comments": "Sammy's final photoclub",
             "urls":
@@ -333,7 +333,7 @@
                    "model": "XT-1/XT-3"
             },
             "name": "Brad",
-            "link": "/Brad",
+            "link": "Brad",
             "thumbnail_idx": 0,
             "comments": "Thanks for always being there for us as role model and supporter. Happy Father's Day! Some of my recent favorites in here...",
             "urls":

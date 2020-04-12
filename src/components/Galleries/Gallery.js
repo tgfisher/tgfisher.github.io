@@ -1,13 +1,16 @@
 import React, {Component} from 'react';
 import { ListGroup, Row, Col } from 'reactstrap';
+import galleries from '../../galleries.json';
 
-class PhotoShow extends Component{
+var all_galleries = galleries.living_galleries.concat(galleries.retired_galleries)
+
+class Gallery extends Component{
   constructor(props) {
     super(props);
+    this.galleryId = props.match.params.galleryId
     this.state={
       height: 0,
       width: 0,
-      galleries: props.gallery_list,
     }
     this.updateDims = this.updateDims.bind(this);
   }
@@ -38,9 +41,9 @@ class PhotoShow extends Component{
     return chosen_photos;
   }
 
-  renderTitlePhotoshow =  title => {
-      for (const curr_gal of this.state.galleries){
-        if (curr_gal.name === title) {
+  renderTitlePhotoshow = link => {
+      for (const curr_gal of all_galleries){
+        if (curr_gal.link === link) {
           var image_res = curr_gal.resolution;
           var urls = curr_gal.urls
           var chosen_photos = this.choosePhotos(urls, image_res)
@@ -51,7 +54,7 @@ class PhotoShow extends Component{
       const height = this.state.height
       const width = this.state.width
       return(
-          <Row>
+          <Row key={url}>
             <Col>
               <br />
               <br />
@@ -78,8 +81,8 @@ class PhotoShow extends Component{
 
 
   render() {
-    return <ListGroup>{this.renderTitlePhotoshow(this.props.title)}</ListGroup>;
+    return <ListGroup>{this.renderTitlePhotoshow(this.galleryId)}</ListGroup>;
   }
 }
 
-export default PhotoShow;
+export default Gallery;
