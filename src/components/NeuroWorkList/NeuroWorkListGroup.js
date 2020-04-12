@@ -69,7 +69,7 @@ class NeuroWorkListGroup extends Component {
 
         var publication_render_wrapper = pubs.map( pub => {
             return (
-                <span>
+                <span key={pub.title + pub.date}>
                     <ListGroupItem>
                         {this.renderPublication(pub)}
                         {this.renderPaperLink(pub)}
