@@ -20,7 +20,7 @@ class App extends Component {
           <Route exact path="/science" component={Science} />
           <Route exact path="/easteregg" component={Easteregg} />
           {/* ------------- dynamic showroom ------------- */}
-          <Route path="/art/:galleryId" component={Gallery} />
+          <Route exact path="/art/:galleryId" component={Gallery} />
         </div>
       </Router>
     );
