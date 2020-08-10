@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { ListGroup, Row, Col } from 'reactstrap';
+
 import galleries from '../../galleries.json';
+
+import '../Galleries/Gallery.css';
 
 var all_galleries = galleries.living_galleries.concat(
     galleries.retired_galleries

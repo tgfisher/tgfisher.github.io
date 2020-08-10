@@ -241,7 +241,7 @@
             "name": "Farmwalk",
             "link": "farmwalk",
             "thumbnail_idx": 0,
-            "comments": ">6ft on the farm.",
+            "comments": ">6ft on the farm",
             "urls":
                 [
                   "https://lh3.googleusercontent.com/_2qSXGTTlIBm4n2K8wYZ-H0_660q1h-lMml0N2sRPQ7Wb8cR1dleEMlxRq72F-zXIPE6yURmsBklfZfw0H4AZWkpLAtXVx-yXCDWS1mc9RsMuemShsVcDzfNfKrBrB9CJII95AQOYA",
@@ -267,7 +267,37 @@
                   "https://lh3.googleusercontent.com/ZKU9QWlUxC0lAcs9xKIg4z7bgVun-5oyTGTVrtLihAz-XPWa59KgAnP_sLckq2qCpwER0NqacMLyYe6PmXg7VSSqVcdrrQWPjNLzQ2xcTPKJxIf5OQEiU7Q1UfkJ3PYE79Ya_6_BWQ"
                 ],
             "resolution": "=w2000-h2000"
+        },
+        {
+            "date": "2020-04-20",
+            "medium": {
+                   "type": "digital",
+                   "format": "APS-C",
+                   "body": "Fujifilm",
+                   "model": "X-100 V"
+            },
+            "name": "LightSky",
+            "link": "lightNsky",
+            "thumbnail_idx": 0,
+            "comments": "A few norCal landscapes",
+            "urls":
+                [
+                  "https://lh3.googleusercontent.com/sHuMGo7ikjZcWCa6vzm1NASM2VRONuQRyKRgP-MxOgHeIE6MG7RKyrlq-gtr4N1oMAiBqL8d_h4rHb09Lcmum5QczN00vPHdHYCoI4-os_r8Cod6lbSzeCwEYtte5_InNIW-ZM3X2A",
+                  "https://lh3.googleusercontent.com/VtDnY5_JZWCwW22f2cNyf3qjui61sqqqtDVJYkgVG9AQZ0aK9BTm-KHIXeTSgzon9Ithm73uoFb84Sj03RKcex0R5K6G7CCXOyR0jsepFRdKreCAlcD-yzSeXw8VRGMKdSujCqtEiw",
+                  "https://lh3.googleusercontent.com/GgLDL4xcR2llPE6BREyRojxF_lAgF0WOqoKhFxwQrbDVNH8oOpFUO0UzdzG3B3lw9McmZa5MbNUy1J_iNtUIE6sePSkdbc9Eh8Zs5eByvfHtsL6cIW16-ZJzQXsfwNjN5rX3z9YTKA",
+                  "https://lh3.googleusercontent.com/UgvN_9sOBa-BHg1thEfqsFvZYB9yo-A8xIzN1SeugZA71Ubdr2nP5O7cZ20AZMaSeiIGE2s9fMvpiRY_6ynbRrhaXxxME6k9sh1Z6WGmwiEGQRbcZL3ZtH0l9PFWnVAoCbIoOJGg6w",
+                  "https://lh3.googleusercontent.com/FKvR8unrOpIWArtatcQ46wWvzTzk57p82rgi8jX-exzqEdtPnRWb9Oi3HG81_hApeFp79eDlKPdjbpJsHcB9V25bx3xWQxI3Tl_dnqMUOwIjc5TUpnrcu4BvXYlhV8uWtkNyakf3SQ",
+                  "https://lh3.googleusercontent.com/nUIdTyce8n1rVQDUY38ei9NTQyA05UMzRyWTzBSm_lMnINDDaFoWyTzypfEAUsWVAlAH_sCQaiqhbJloskvwsStnRIGmwU0D-vn-gA6kHzKI6EzNX-5EVM5kktoBVXz5OHyftZTWYA",
+                  "https://lh3.googleusercontent.com/nyM0StM5HOfZW69mOo8hZf_lF7kdL23JKAPjxXk2OU0ybK6rwYZpUdwTaCCI7i6iYIp0aMv0SEAz6ueTKfk9-Jac2dSWodwMrMptmzIeBFw0zKNz18SHOLIN3086R6p-lh89ICwRZA",
+                  "https://lh3.googleusercontent.com/l0DTvWQbolwadZO4kwySAzJ30FIduRBB3CN5V3yAgL6kiv1bNtHKSt4vGdp-0GFGLl8SsDDnnhjRX31nvHBelIj7xHIkbXVcGL07YqghT8IS4wAe4lL96o3kzsnsQhTAwtCOQZ5hKA",
+                  "https://lh3.googleusercontent.com/oiiGOxadRqt6QqTJC7FmCaTwC57KbbhaNQDDnmk4jkov-uuJaO0f-N7JyGn4xNMQPT85l158cA41hDueAVFaAz-_zuWY2MTv1VI1B8JxkEOhjgFKtO7AwF_jHAJQ7PPdHCbO1RSTaw",
+                  "https://lh3.googleusercontent.com/3GnCQA6qzgKQDiEnGtDQ71PIHntt5MxSrigxfPBDmrQ_FRsBcbL5CQVQ_oFtBOdLQ33S30Jj0bAbDhgdijqMjoFbuJ-Q1SMjstMw1ZhkwgM_YbZoWon4aM338XYWL4XPlIO3zw_ezQ",
+                  "https://lh3.googleusercontent.com/Maeihxa2MXS0BV-lT6f76bNO5wg3kQEePSywhAsphV1k4_TWrk_S7g29EDgu3BO4mUHn_ecMWenalF8q3dB319LFV5WBfAmb4Yk4fhaUNcEkKQN619aCmB1dX9wgkYJDJgp7YsnOKg",
+                  "https://lh3.googleusercontent.com/HvF_TTVw2TsxEb9E00Q3cVIEH1bLfK_Gkno8XJ8OXCPbg-ePhkurhYwFzkXQKiw2our2bQEHvkDNdBVdnwjWquq5hFxiJZIx9EzTJVJsoNlcUfkrwTVknN_rsGYqrVBO7PMxKG4Cow"
+                ],
+            "resolution": "=w2000-h2000"
         }
+
     ],
 
     "retired_galleries" : [
